@@ -1,0 +1,10 @@
+python read_inputfile_names.py
+
+echo "txt file created"
+
+while read LINE; do
+    #echo ${LINE}
+    python main_train.py --input_name "$LINE"   
+done < input_names.txt
+
+echo "base image trained"
