@@ -1,1 +1,6 @@
-This project uses Q-learning Implementation to guide robot through a 10x10 Maze. I have used Epsilon Greedy Exploration policy, where a robot explores it's environment during the starting phase of training and focuses more onto exploiting the reward towards the end of training
+# Q Learning in Maze World
+
+This project uses Q-learning Implementation to guide robot through a 10x10 Maze. 
+I have used Epsilon Greedy Exploration policy, 
+where a robot explores it's environment during the starting phase of training and 
+focuses more onto exploiting the reward towards the end of training
