@@ -17,4 +17,3 @@ Demos <a name="TOP"></a>
 ![2](https://user-images.githubusercontent.com/58717184/108563110-eeca5900-72ce-11eb-9869-07f0818d1d30.gif)
 
 
-![3](https://user-images.githubusercontent.com/58717184/108563113-f0941c80-72ce-11eb-9eb0-dc1357654370.gif)
