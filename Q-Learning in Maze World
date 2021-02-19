@@ -1,4 +1,5 @@
-# Q Learning in Maze World
+Q learning in Maze World<a name="TOP"></a>
+===================
 
 This project uses Q-learning Implementation to guide robot through a 10x10 Maze. 
 I have used Epsilon Greedy Exploration policy, 
