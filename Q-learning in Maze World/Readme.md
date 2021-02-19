@@ -11,4 +11,10 @@ and focuses more onto exploiting the reward towards the end of training
 Demos <a name="TOP"></a>
 ===================
 
-https://user-images.githubusercontent.com/58717184/108562688-40261880-72ce-11eb-9ef5-ad51283ac6fe.mp4
+![1](https://user-images.githubusercontent.com/58717184/108563059-d8240200-72ce-11eb-8144-2e2cc67529bb.gif)
+
+
+![2](https://user-images.githubusercontent.com/58717184/108563110-eeca5900-72ce-11eb-9869-07f0818d1d30.gif)
+
+
+![3](https://user-images.githubusercontent.com/58717184/108563113-f0941c80-72ce-11eb-9eb0-dc1357654370.gif)
