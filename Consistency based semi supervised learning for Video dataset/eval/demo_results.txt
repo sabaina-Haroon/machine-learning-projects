@@ -1,0 +1,1907 @@
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g07_c04
+label: PoleVault || 69 || 59 || 148 || 238
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g04_c05
+label: PoleVault || 40 || 80 || 123 || 236
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.6315) 236.20186 || 97.4334 || 274.14236 || 189.38556
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g07_c02
+label: PoleVault || 159 || 79 || 197 || 171
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g06_c05
+label: PoleVault || 123 || 4 || 262 || 234
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g01_c02
+label: PoleVault || 126 || 62 || 206 || 160
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.9151) 141.29132 || 140.94792 || 182.40082 || 208.40886
+2 label: PoleVault score: tensor(0.8778) 124.432434 || 136.72133 || 165.92496 || 201.61908
+3 label: PoleVault score: tensor(0.8107) 83.68632 || 84.00474 || 168.78569 || 236.41856
+4 label: PoleVault score: tensor(0.6712) 158.79822 || 139.5042 || 196.34265 || 212.8229
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g02_c01
+label: PoleVault || 73 || 71 || 120 || 119
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.6588) 108.47794 || 118.91495 || 152.60854 || 196.86745
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g02_c03
+label: PoleVault || 119 || 84 || 150 || 141
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.6378) 30.386122 || 56.724518 || 75.51662 || 131.35101
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g03_c05
+label: PoleVault || 197 || 28 || 239 || 87
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g25_c03
+label: PoleVault || 193 || 88 || 252 || 186
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.7645) 166.27618 || 110.05998 || 223.69415 || 221.53587
+2 label: PoleVault score: tensor(0.6980) 96.73239 || 145.09447 || 145.4498 || 251.93857
+3 label: PoleVault score: tensor(0.6131) 115.02276 || 150.91582 || 160.4653 || 265.45206
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g21_c03
+label: PoleVault || 44 || 37 || 135 || 91
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.8956) 46.078976 || 31.184198 || 116.262405 || 130.83174
+2 label: PoleVault score: tensor(0.6913) 72.09418 || 38.58087 || 144.10963 || 115.73482
+3 label: PoleVault score: tensor(0.6017) 35.40861 || 145.00471 || 87.99996 || 203.39368
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g17_c07
+label: PoleVault || 68 || 123 || 110 || 200
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.8420) 38.554207 || 141.39107 || 95.50327 || 255.98738
+2 label: PoleVault score: tensor(0.6610) 50.0524 || 125.736984 || 115.65601 || 231.45439
+3 label: PoleVault score: tensor(0.6530) 20.281918 || 134.87285 || 80.48318 || 232.19684
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g17_c01
+label: PoleVault || 145 || 86 || 250 || 237
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g09_c02
+label: PoleVault || 77 || 49 || 157 || 163
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g12_c04
+label: PoleVault || 43 || 101 || 137 || 238
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g13_c02
+label: PoleVault || 100 || 4 || 233 || 167
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g23_c04
+label: PoleVault || 111 || 22 || 183 || 99
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.8246) 99.84826 || 57.27559 || 162.347 || 142.62509
+2 label: PoleVault score: tensor(0.7062) 127.575645 || 43.343506 || 182.5952 || 113.88427
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g16_c04
+label: PoleVault || 169 || 92 || 230 || 155
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.6225) 152.10533 || 132.7544 || 209.60054 || 232.1507
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g09_c03
+label: PoleVault || 88 || 67 || 167 || 124
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.9468) 87.44358 || 95.1123 || 198.49852 || 139.77248
+2 label: PoleVault score: tensor(0.8264) 64.37534 || 82.4652 || 131.04965 || 200.43436
+3 label: PoleVault score: tensor(0.7773) 85.44237 || 102.94142 || 151.27577 || 179.48982
+4 label: PoleVault score: tensor(0.6309) 96.513855 || 112.03709 || 214.46614 || 151.21933
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g19_c02
+label: PoleVault || 125 || 66 || 168 || 111
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.8630) 104.97483 || 101.95723 || 153.3032 || 189.93892
+2 label: PoleVault score: tensor(0.7337) 126.76265 || 85.563484 || 173.28163 || 195.1404
+3 label: PoleVault score: tensor(0.7130) 115.99384 || 85.110794 || 154.2204 || 155.13167
+4 label: PoleVault score: tensor(0.7112) 87.152885 || 64.23643 || 144.28322 || 157.73145
+5 label: PoleVault score: tensor(0.7015) 167.19475 || 99.90909 || 205.77478 || 229.12651
+6 label: PoleVault score: tensor(0.6921) 185.4149 || 108.930786 || 221.17964 || 234.92484
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g08_c02
+label: PoleVault || 134 || 41 || 232 || 144
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g08_c04
+label: PoleVault || 128 || 72 || 209 || 171
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.6075) 98.317604 || 79.45017 || 204.40036 || 256.51996
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g17_c06
+label: PoleVault || 32 || 122 || 82 || 196
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.6982) 210.9661 || 194.46756 || 283.0324 || 256.551
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g24_c06
+label: PoleVault || 165 || 85 || 206 || 143
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.8724) 154.30473 || 114.49908 || 212.12094 || 186.64061
+2 label: PoleVault score: tensor(0.7239) 133.70934 || 106.85363 || 189.79747 || 183.29898
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g11_c05
+label: PoleVault || 54 || 73 || 172 || 210
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.6941) 70.995926 || 102.16015 || 153.17685 || 156.04198
+2 label: PoleVault score: tensor(0.6799) 84.94056 || 113.07809 || 157.22229 || 189.22511
+3 label: PoleVault score: tensor(0.6310) 67.658005 || 109.93635 || 111.07296 || 185.16283
+4 label: PoleVault score: tensor(0.6251) 52.96458 || 110.42291 || 130.28603 || 209.36394
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g19_c07
+label: PoleVault || 120 || 60 || 183 || 96
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.9295) 91.97243 || 82.48577 || 190.49034 || 119.172226
+2 label: PoleVault score: tensor(0.8264) 110.39715 || 68.97165 || 161.7479 || 122.727516
+3 label: PoleVault score: tensor(0.6561) 147.78441 || 87.45339 || 217.79636 || 167.52032
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g23_c02
+label: PoleVault || 143 || 54 || 209 || 127
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.6836) 109.07167 || 73.50099 || 162.25974 || 169.92752
+2 label: PoleVault score: tensor(0.6568) 67.307076 || 128.60985 || 110.48349 || 261.8633
+3 label: PoleVault score: tensor(0.6380) 83.99822 || 120.336876 || 126.16426 || 250.07959
+4 label: PoleVault score: tensor(0.6253) 122.40095 || 71.32956 || 189.9492 || 156.76604
+5 label: PoleVault score: tensor(0.6067) 130.96095 || 81.18669 || 176.30705 || 207.53683
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g15_c04
+label: PoleVault || 123 || 52 || 179 || 148
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g25_c05
+label: PoleVault || 168 || 119 || 215 || 188
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.9228) 176.78159 || 154.85597 || 213.86215 || 227.81767
+2 label: PoleVault score: tensor(0.9095) 161.262 || 154.36714 || 198.5857 || 226.44444
+3 label: PoleVault score: tensor(0.8231) 105.694664 || 62.858055 || 152.32602 || 142.01535
+4 label: PoleVault score: tensor(0.7820) 195.35204 || 157.99068 || 229.81483 || 230.58348
+5 label: PoleVault score: tensor(0.7293) 206.18257 || 162.82053 || 242.7333 || 248.32896
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g19_c04
+label: PoleVault || 72 || 30 || 158 || 106
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.8435) 118.39405 || 92.24603 || 186.75908 || 141.8701
+2 label: PoleVault score: tensor(0.8141) 195.72852 || 73.4439 || 251.79585 || 185.4555
+3 label: PoleVault score: tensor(0.8026) 95.51686 || 56.33863 || 174.4759 || 159.9289
+4 label: PoleVault score: tensor(0.8006) 176.8487 || 91.66553 || 234.20099 || 205.33229
+5 label: PoleVault score: tensor(0.6615) 179.31445 || 118.09527 || 217.67264 || 190.22441
+6 label: PoleVault score: tensor(0.6375) 129.4596 || 27.095331 || 182.58017 || 164.40416
+7 label: PoleVault score: tensor(0.6274) 141.69508 || 103.571754 || 196.66006 || 169.9433
+8 label: PoleVault score: tensor(0.6233) 153.41922 || 94.59418 || 213.9396 || 151.53682
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g10_c06
+label: PoleVault || 234 || 120 || 279 || 180
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.9118) 218.66638 || 135.58855 || 258.63214 || 212.60938
+2 label: PoleVault score: tensor(0.8237) 230.32115 || 159.85576 || 272.91614 || 231.16379
+3 label: PoleVault score: tensor(0.8151) 197.2486 || 139.39413 || 237.5133 || 216.51198
+4 label: PoleVault score: tensor(0.6107) 167.36815 || 125.31833 || 244.97475 || 200.24516
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g19_c01
+label: PoleVault || 82 || 74 || 133 || 129
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.9553) 61.011654 || 110.723274 || 115.85566 || 213.97205
+2 label: PoleVault score: tensor(0.9399) 76.64775 || 103.7035 || 129.76384 || 185.6648
+3 label: PoleVault score: tensor(0.8491) 48.642784 || 89.15339 || 127.0299 || 150.06448
+4 label: PoleVault score: tensor(0.7478) 42.484932 || 115.145645 || 97.32297 || 205.9718
+5 label: PoleVault score: tensor(0.7474) 73.24313 || 126.42986 || 178.28763 || 170.29579
+6 label: PoleVault score: tensor(0.6270) 96.14019 || 109.29738 || 144.1462 || 223.43599
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g19_c03
+label: PoleVault || 133 || 90 || 165 || 135
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.7359) 94.42016 || 135.56798 || 141.73999 || 218.79063
+2 label: PoleVault score: tensor(0.6334) 125.449905 || 102.9754 || 160.14778 || 164.73727
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g23_c01
+label: PoleVault || 163 || 35 || 217 || 95
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.9286) 153.29936 || 60.12288 || 189.43028 || 131.1912
+2 label: PoleVault score: tensor(0.6898) 144.0043 || 41.90468 || 199.57227 || 118.54456
+3 label: PoleVault score: tensor(0.6890) 174.19884 || 28.96682 || 226.22195 || 113.389435
+4 label: PoleVault score: tensor(0.6675) 125.36543 || 61.62038 || 174.21541 || 146.34843
+5 label: PoleVault score: tensor(0.6144) 159.64426 || 22.556734 || 216.23486 || 148.71603
+6 label: PoleVault score: tensor(0.6048) 171.78629 || 48.470768 || 205.7213 || 120.656815
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g18_c06
+label: PoleVault || 198 || 116 || 272 || 204
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.9225) 186.86577 || 149.10844 || 226.0934 || 279.18262
+2 label: PoleVault score: tensor(0.9116) 203.16856 || 143.56725 || 240.56064 || 292.1854
+3 label: PoleVault score: tensor(0.8676) 166.10454 || 149.23972 || 207.20992 || 267.33105
+4 label: PoleVault score: tensor(0.8518) 144.48747 || 131.33546 || 197.46678 || 230.94656
+5 label: PoleVault score: tensor(0.8325) 220.1682 || 138.47906 || 249.61493 || 302.85095
+6 label: PoleVault score: tensor(0.8034) 127.981155 || 129.03769 || 175.9941 || 238.65018
+7 label: PoleVault score: tensor(0.7675) 73.15431 || 86.68796 || 145.59369 || 154.35524
+8 label: PoleVault score: tensor(0.7622) 108.71308 || 131.4703 || 159.20659 || 232.44467
+9 label: PoleVault score: tensor(0.7272) 69.8125 || 106.45861 || 129.55745 || 171.66502
+10 label: PoleVault score: tensor(0.6712) 95.38725 || 104.45334 || 151.80553 || 170.21701
+11 label: PoleVault score: tensor(0.6004) 60.472878 || 144.96487 || 104.649445 || 241.76233
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g14_c01
+label: PoleVault || 136 || 92 || 184 || 169
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.7932) 195.05727 || 104.364494 || 246.41315 || 162.37263
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g21_c06
+label: PoleVault || 67 || 27 || 118 || 98
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.9658) 62.378616 || 43.315323 || 105.72732 || 96.14046
+2 label: PoleVault score: tensor(0.9301) 60.768417 || 54.221165 || 116.595695 || 124.12444
+3 label: PoleVault score: tensor(0.8860) 52.949886 || 7.3862405 || 91.49977 || 115.21642
+4 label: PoleVault score: tensor(0.8359) 41.504116 || 3.4344747 || 72.0985 || 116.10487
+5 label: PoleVault score: tensor(0.7799) 73.37599 || 29.74747 || 126.19926 || 102.05075
+6 label: PoleVault score: tensor(0.7448) 234.9349 || 149.01677 || 282.33264 || 243.24388
+7 label: PoleVault score: tensor(0.7364) 56.243256 || 23.177717 || 101.57969 || 82.19135
+8 label: PoleVault score: tensor(0.6368) 255.27211 || 143.26886 || 296.93488 || 237.02942
+9 label: PoleVault score: tensor(0.6195) 169.49315 || 178.7874 || 222.34271 || 245.93762
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g23_c07
+label: PoleVault || 114 || 36 || 185 || 93
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.9059) 117.82011 || 33.128372 || 180.71855 || 123.374374
+2 label: PoleVault score: tensor(0.8558) 117.36318 || 70.274536 || 166.55556 || 140.00153
+3 label: PoleVault score: tensor(0.7353) 107.56675 || 56.443897 || 153.94756 || 120.234634
+4 label: PoleVault score: tensor(0.7113) 145.27646 || 46.80689 || 196.68687 || 144.29282
+5 label: PoleVault score: tensor(0.6001) 80.29164 || 69.012245 || 138.06146 || 167.21413
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g12_c07
+label: PoleVault || 115 || 145 || 166 || 221
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.8488) 207.91318 || 132.84805 || 248.62828 || 241.9289
+2 label: PoleVault score: tensor(0.8128) 157.17923 || 171.67894 || 202.3544 || 257.58667
+3 label: PoleVault score: tensor(0.7847) 223.33774 || 130.51712 || 264.26785 || 245.37206
+4 label: PoleVault score: tensor(0.6948) 110.04253 || 163.84836 || 162.64062 || 266.13123
+5 label: PoleVault score: tensor(0.6766) 190.348 || 139.99242 || 230.40887 || 237.95514
+6 label: PoleVault score: tensor(0.6761) 172.35278 || 158.50388 || 222.05766 || 253.57166
+7 label: PoleVault score: tensor(0.6597) 6.412335 || 165.35042 || 55.191723 || 253.1657
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g23_c05
+label: PoleVault || 2 || 88 || 55 || 199
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.9834) 16.603045 || 126.39213 || 54.158714 || 325.06717
+2 label: PoleVault score: tensor(0.9553) -3.5312085 || 104.91446 || 38.67447 || 293.01468
+3 label: PoleVault score: tensor(0.6973) 14.353902 || 82.29132 || 49.44782 || 225.91241
+4 label: PoleVault score: tensor(0.6865) 28.05809 || 151.39252 || 71.09882 || 298.3253
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g16_c07
+label: PoleVault || 175 || 102 || 225 || 166
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.7558) 14.201425 || 66.79942 || 67.89995 || 188.64648
+2 label: PoleVault score: tensor(0.6273) -2.0087287 || 79.870514 || 51.615158 || 206.36133
+3 label: PoleVault score: tensor(0.6090) 22.062775 || 91.189964 || 86.870705 || 225.06313
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g19_c05
+label: PoleVault || 113 || 55 || 182 || 105
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.9608) 97.85792 || 50.774696 || 149.59692 || 131.41895
+2 label: PoleVault score: tensor(0.8809) 111.87846 || 65.22622 || 169.03098 || 134.20363
+3 label: PoleVault score: tensor(0.7113) 71.157455 || 65.161255 || 136.21498 || 144.69678
+4 label: PoleVault score: tensor(0.6116) 104.43649 || 104.866 || 133.07558 || 214.54851
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g08_c01
+label: PoleVault || 131 || 60 || 179 || 170
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g21_c02
+label: PoleVault || 70 || 30 || 144 || 98
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.7405) 51.363792 || 40.87272 || 124.6391 || 112.0052
+2 label: PoleVault score: tensor(0.6168) 252.57089 || 173.39612 || 285.62772 || 270.24344
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g18_c03
+label: PoleVault || 216 || 118 || 264 || 173
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.7551) 156.5841 || 150.84998 || 204.04544 || 243.63588
+2 label: PoleVault score: tensor(0.6612) 197.39328 || 139.31812 || 248.9504 || 211.86021
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g13_c01
+label: PoleVault || 55 || 111 || 105 || 204
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.8582) 22.998465 || 155.61774 || 79.31288 || 259.32193
+2 label: PoleVault score: tensor(0.8566) 52.653008 || 143.6922 || 98.32206 || 223.69998
+3 label: PoleVault score: tensor(0.6775) 13.1779585 || 169.09937 || 56.524487 || 274.2886
+4 label: PoleVault score: tensor(0.6667) 3.1177394 || 150.82753 || 41.895317 || 258.61923
+5 label: PoleVault score: tensor(0.6010) 58.271687 || 167.95775 || 114.47316 || 253.97736
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g17_c04
+label: PoleVault || 151 || 92 || 214 || 174
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.7295) 152.83987 || 78.86692 || 183.4147 || 176.78394
+2 label: PoleVault score: tensor(0.7089) 138.45644 || 120.465645 || 196.57724 || 230.06543
+3 label: PoleVault score: tensor(0.6169) 46.550335 || 183.62494 || 104.70762 || 287.01846
+4 label: PoleVault score: tensor(0.6063) 132.03836 || 145.73207 || 178.73518 || 214.55841
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g11_c02
+label: PoleVault || 40 || 93 || 119 || 194
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.8167) 38.581467 || 109.39211 || 108.48654 || 194.74866
+2 label: PoleVault score: tensor(0.6295) 71.941 || 105.37555 || 124.36634 || 198.32614
+3 label: PoleVault score: tensor(0.6076) 24.142626 || 135.7907 || 101.307335 || 215.05566
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g17_c03
+label: PoleVault || 119 || 152 || 180 || 212
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.8689) 94.909065 || 109.24564 || 161.08437 || 203.77533
+2 label: PoleVault score: tensor(0.7958) 117.18855 || 127.47204 || 186.2091 || 221.00029
+3 label: PoleVault score: tensor(0.7934) 115.406425 || 190.59598 || 247.05225 || 235.62863
+4 label: PoleVault score: tensor(0.7152) 119.35831 || 177.74263 || 176.59752 || 283.4707
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g16_c06
+label: PoleVault || 179 || 120 || 224 || 174
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g20_c01
+label: PoleVault || 67 || 130 || 125 || 208
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g17_c02
+label: PoleVault || 118 || 85 || 244 || 238
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g16_c01
+label: PoleVault || 144 || 105 || 219 || 181
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.8998) 106.25818 || 114.95865 || 183.0498 || 245.62526
+2 label: PoleVault score: tensor(0.6583) 50.23901 || 133.35297 || 119.22105 || 232.71078
+3 label: PoleVault score: tensor(0.6333) 79.12016 || 127.83576 || 156.07831 || 229.45168
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g22_c03
+label: PoleVault || 58 || 18 || 268 || 235
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.7222) 130.9609 || 58.826378 || 177.29076 || 153.39783
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g10_c01
+label: PoleVault || 217 || 126 || 275 || 193
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g12_c03
+label: PoleVault || 129 || 124 || 194 || 225
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.6292) 125.14692 || 163.87878 || 178.97371 || 270.62424
+2 label: PoleVault score: tensor(0.6095) 21.674969 || 178.84952 || 72.34529 || 300.97684
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g15_c02
+label: PoleVault || 151 || 77 || 211 || 164
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.7044) 163.2886 || 85.75626 || 205.89584 || 161.07892
+2 label: PoleVault score: tensor(0.6603) 122.55441 || 89.806854 || 178.43881 || 164.44273
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g20_c04
+label: PoleVault || 57 || 103 || 142 || 236
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g25_c04
+label: PoleVault || 174 || 100 || 247 || 190
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g19_c06
+label: PoleVault || 140 || 68 || 194 || 102
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.7451) 89.24314 || 114.95943 || 167.01869 || 162.93051
+2 label: PoleVault score: tensor(0.6680) 203.42009 || 94.45043 || 266.6612 || 203.70845
+3 label: PoleVault score: tensor(0.6468) 89.801025 || 96.886536 || 154.59036 || 146.34418
+4 label: PoleVault score: tensor(0.6348) 121.54808 || 80.21305 || 192.33398 || 129.73955
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g13_c04
+label: PoleVault || 115 || 25 || 164 || 124
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.7675) 103.55078 || 37.21449 || 158.06183 || 135.17085
+2 label: PoleVault score: tensor(0.6201) 122.89215 || 17.81947 || 175.48457 || 121.842354
+3 label: PoleVault score: tensor(0.6057) 89.869484 || 52.230984 || 137.98178 || 157.04616
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g24_c04
+label: PoleVault || 181 || 31 || 304 || 239
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g15_c01
+label: PoleVault || 78 || 94 || 166 || 185
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g18_c02
+label: PoleVault || 104 || 86 || 204 || 173
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.9617) 98.49931 || 124.501335 || 166.59737 || 219.1885
+2 label: PoleVault score: tensor(0.7915) 115.51884 || 98.55171 || 187.18854 || 196.5271
+3 label: PoleVault score: tensor(0.6475) 107.41933 || 157.4996 || 174.29161 || 239.13853
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g11_c03
+label: PoleVault || 57 || 108 || 121 || 197
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g08_c03
+label: PoleVault || 123 || 70 || 161 || 127
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.8988) 92.33167 || 97.45005 || 139.74997 || 182.99017
+2 label: PoleVault score: tensor(0.7431) 73.59209 || 83.8299 || 122.67678 || 193.8828
+3 label: PoleVault score: tensor(0.6965) 112.903305 || 92.693565 || 155.66986 || 177.79716
+4 label: PoleVault score: tensor(0.6225) 90.82577 || 84.24959 || 156.83202 || 150.19202
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g22_c02
+label: PoleVault || 91 || 50 || 237 || 163
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g09_c04
+label: PoleVault || 148 || 125 || 176 || 168
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g14_c02
+label: PoleVault || 137 || 93 || 186 || 180
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.8511) 127.38423 || 95.59622 || 182.1081 || 225.75278
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g25_c07
+label: PoleVault || 154 || 123 || 227 || 234
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.9440) 150.27214 || 185.88344 || 200.24025 || 265.89346
+2 label: PoleVault score: tensor(0.8910) 92.968216 || 96.114525 || 135.92183 || 194.24004
+3 label: PoleVault score: tensor(0.8887) 76.60094 || 74.91765 || 127.6665 || 182.17853
+4 label: PoleVault score: tensor(0.8562) 172.77687 || 188.74068 || 221.65585 || 274.53314
+5 label: PoleVault score: tensor(0.7235) 130.42908 || 170.52458 || 184.4998 || 255.41177
+6 label: PoleVault score: tensor(0.7144) 189.4914 || 184.13583 || 243.9373 || 277.28152
+7 label: PoleVault score: tensor(0.6344) 112.59315 || 111.47545 || 148.99773 || 209.16338
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g18_c04
+label: PoleVault || 158 || 97 || 228 || 180
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.7708) 150.36465 || 126.92008 || 210.03302 || 217.66652
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g16_c02
+label: PoleVault || 163 || 85 || 220 || 169
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g18_c07
+label: PoleVault || 82 || 109 || 143 || 197
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.7830) 74.58593 || 107.86685 || 134.59247 || 226.68282
+2 label: PoleVault score: tensor(0.6175) 49.303482 || 112.3662 || 119.32985 || 270.2651
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g22_c04
+label: PoleVault || 106 || 55 || 193 || 222
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.7130) 97.66987 || 135.45511 || 141.9937 || 228.8948
+2 label: PoleVault score: tensor(0.6693) 107.625946 || 144.34616 || 162.65298 || 243.36998
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g16_c03
+label: PoleVault || 182 || 112 || 227 || 168
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.6193) 24.205095 || 112.35459 || 81.07687 || 210.12222
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g23_c06
+label: PoleVault || 108 || 23 || 161 || 89
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.8734) 115.39375 || 38.53273 || 163.03354 || 138.75186
+2 label: PoleVault score: tensor(0.8189) 97.06853 || 30.704329 || 145.484 || 123.6583
+3 label: PoleVault score: tensor(0.7972) 76.61789 || 51.902447 || 131.8494 || 137.5998
+4 label: PoleVault score: tensor(0.7610) 62.463932 || 87.40034 || 115.561066 || 164.12802
+5 label: PoleVault score: tensor(0.7237) 84.4384 || 77.106804 || 127.16128 || 164.52689
+6 label: PoleVault score: tensor(0.6821) 45.708794 || 114.41472 || 95.14394 || 190.59
+7 label: PoleVault score: tensor(0.6727) 60.575745 || 127.3648 || 112.49075 || 196.27408
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g14_c05
+label: PoleVault || 134 || 87 || 192 || 180
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.7348) 108.816185 || 111.435326 || 167.02505 || 218.88774
+2 label: PoleVault score: tensor(0.6146) 235.35548 || 131.6138 || 290.4741 || 220.06284
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g24_c03
+label: PoleVault || 6 || 75 || 65 || 235
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g24_c02
+label: PoleVault || 69 || 97 || 182 || 237
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g13_c03
+label: PoleVault || 155 || 32 || 208 || 100
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.6680) 142.15486 || 51.190414 || 187.70187 || 112.802155
+2 label: PoleVault score: tensor(0.6209) 132.97165 || 40.936836 || 197.90909 || 142.94736
+3 label: PoleVault score: tensor(0.6176) 163.57065 || 154.95593 || 236.76059 || 243.92229
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g09_c01
+label: PoleVault || 87 || 45 || 159 || 127
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g25_c06
+label: PoleVault || 173 || 104 || 244 || 204
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.7592) 214.23715 || 173.19687 || 253.0926 || 260.88763
+2 label: PoleVault score: tensor(0.6741) 209.48274 || 96.40363 || 252.62694 || 238.21103
+3 label: PoleVault score: tensor(0.6681) 226.74702 || 189.01454 || 267.51404 || 270.95703
+4 label: PoleVault score: tensor(0.6168) 223.07137 || 153.99263 || 271.1294 || 242.14961
+5 label: PoleVault score: tensor(0.6093) 227.59358 || 229.3724 || 265.6319 || 295.06714
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g20_c02
+label: PoleVault || 7 || 62 || 169 || 201
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g21_c05
+label: PoleVault || 60 || 33 || 127 || 90
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.8753) 52.724148 || 39.587227 || 111.32755 || 129.13243
+2 label: PoleVault score: tensor(0.7067) -2.7486317 || 113.180786 || 56.480625 || 183.15726
+3 label: PoleVault score: tensor(0.6586) 66.30228 || 54.18005 || 132.06587 || 142.262
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g18_c01
+label: PoleVault || 111 || 133 || 153 || 220
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.8107) 116.76069 || 150.32054 || 159.05646 || 273.1147
+2 label: PoleVault score: tensor(0.7076) 100.1353 || 158.5578 || 143.13705 || 289.10825
+3 label: PoleVault score: tensor(0.6606) 132.90576 || 148.62662 || 173.80391 || 257.32867
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g20_c06
+label: PoleVault || 159 || 3 || 253 || 80
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.9137) 136.48502 || 22.437714 || 257.17468 || 80.017334
+2 label: PoleVault score: tensor(0.7816) 138.82413 || 26.896902 || 224.76973 || 126.6045
+3 label: PoleVault score: tensor(0.7151) 168.83707 || 180.19211 || 223.76393 || 267.9559
+4 label: PoleVault score: tensor(0.6093) 154.77292 || 162.95471 || 207.94308 || 254.7412
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g17_c05
+label: PoleVault || 71 || 153 || 121 || 231
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g24_c05
+label: PoleVault || 187 || 72 || 224 || 130
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.9158) 164.05655 || 82.37399 || 205.23943 || 206.87482
+2 label: PoleVault score: tensor(0.8759) 179.8653 || 83.450806 || 220.15138 || 200.29324
+3 label: PoleVault score: tensor(0.8491) 147.44275 || 89.75158 || 189.61496 || 210.96281
+4 label: PoleVault score: tensor(0.6147) 191.25317 || 75.28387 || 238.18039 || 171.10687
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g12_c06
+label: PoleVault || 147 || 133 || 195 || 193
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.9796) 167.68817 || 151.19826 || 206.03899 || 261.99118
+2 label: PoleVault score: tensor(0.9726) 145.81905 || 160.34518 || 184.21808 || 255.34824
+3 label: PoleVault score: tensor(0.8901) 192.09125 || 142.46193 || 231.32687 || 274.2489
+4 label: PoleVault score: tensor(0.7525) 123.4049 || 167.83061 || 164.06319 || 249.74585
+5 label: PoleVault score: tensor(0.6907) 210.89941 || 139.60875 || 251.56238 || 282.40237
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g21_c01
+label: PoleVault || 78 || 49 || 147 || 90
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.9877) 77.20118 || 40.471313 || 148.10864 || 124.58645
+2 label: PoleVault score: tensor(0.8673) 70.36592 || 24.936588 || 135.28508 || 89.39246
+3 label: PoleVault score: tensor(0.7265) 144.24384 || 127.67327 || 186.2725 || 219.39185
+4 label: PoleVault score: tensor(0.6882) 95.10884 || 56.46168 || 177.321 || 117.4029
+5 label: PoleVault score: tensor(0.6560) 41.686356 || 45.842278 || 109.86686 || 133.74138
+6 label: PoleVault score: tensor(0.6545) 57.864147 || 79.65501 || 138.08272 || 143.23509
+7 label: PoleVault score: tensor(0.6360) 79.44341 || 70.01047 || 115.481865 || 163.38739
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g12_c01
+label: PoleVault || 102 || 100 || 201 || 236
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g12_c02
+label: PoleVault || 213 || 135 || 274 || 201
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.6493) 23.023285 || 179.56671 || 64.74198 || 267.54712
+2 label: PoleVault score: tensor(0.6486) 43.012596 || 185.59592 || 87.2426 || 263.20895
+3 label: PoleVault score: tensor(0.6198) 101.22639 || 150.48256 || 162.61443 || 242.797
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g10_c04
+label: PoleVault || 155 || 119 || 212 || 185
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.8510) 233.06787 || 117.54711 || 279.46924 || 233.14587
+2 label: PoleVault score: tensor(0.8403) 124.80454 || 145.33644 || 179.96819 || 215.3268
+3 label: PoleVault score: tensor(0.8305) 252.45546 || 110.25284 || 297.47125 || 236.78745
+4 label: PoleVault score: tensor(0.7536) 145.11092 || 129.55055 || 194.36517 || 204.5415
+5 label: PoleVault score: tensor(0.7429) 212.68141 || 130.04556 || 259.40817 || 225.90823
+6 label: PoleVault score: tensor(0.6351) 111.88801 || 138.76573 || 154.46666 || 230.4455
+7 label: PoleVault score: tensor(0.6241) 265.44617 || 123.62199 || 313.89246 || 225.41803
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g24_c01
+label: PoleVault || 38 || 8 || 193 || 238
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g21_c07
+label: PoleVault || 25 || 26 || 91 || 86
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.9355) 32.652733 || 31.12911 || 102.721504 || 97.37982
+2 label: PoleVault score: tensor(0.8088) 65.244225 || 24.933233 || 128.75783 || 124.20023
+3 label: PoleVault score: tensor(0.7538) 53.159966 || 54.2032 || 108.31597 || 141.18681
+4 label: PoleVault score: tensor(0.7324) 183.46239 || 146.20209 || 250.25461 || 262.55145
+5 label: PoleVault score: tensor(0.6014) 28.831139 || 40.543423 || 86.24055 || 140.11993
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g21_c04
+label: PoleVault || 101 || 56 || 156 || 121
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.7254) 71.691475 || 66.750694 || 135.64935 || 144.88828
+2 label: PoleVault score: tensor(0.6411) 93.42792 || 85.69788 || 140.83263 || 170.85297
+3 label: PoleVault score: tensor(0.6009) 111.09869 || 89.939026 || 155.27646 || 175.20343
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g25_c01
+label: PoleVault || 253 || 137 || 314 || 238
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.7876) 232.97975 || 176.965 || 280.54156 || 261.87384
+2 label: PoleVault score: tensor(0.6691) 255.03706 || 176.0039 || 293.74585 || 267.1364
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g10_c05
+label: PoleVault || 145 || 81 || 188 || 142
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.6769) 204.5773 || 113.37994 || 252.24495 || 208.33247
+2 label: PoleVault score: tensor(0.6149) 190.35571 || 114.96318 || 234.02364 || 215.26555
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g10_c03
+label: PoleVault || 196 || 107 || 245 || 168
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.8540) 207.23732 || 102.82512 || 237.62747 || 231.11755
+2 label: PoleVault score: tensor(0.8279) 187.48526 || 94.98378 || 222.58943 || 211.12686
+3 label: PoleVault score: tensor(0.6988) 218.75342 || 111.44432 || 252.5142 || 232.18875
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g24_c07
+label: PoleVault || 18 || 115 || 64 || 207
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.8015) 31.185518 || 174.7368 || 70.20174 || 255.51242
+2 label: PoleVault score: tensor(0.7398) 16.766508 || 173.61371 || 53.078243 || 250.17755
+3 label: PoleVault score: tensor(0.6774) 44.32445 || 172.90352 || 104.530396 || 256.3909
+4 label: PoleVault score: tensor(0.6063) 3.4566488 || 168.51744 || 37.032738 || 245.17876
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g14_c06
+label: PoleVault || 124 || 83 || 183 || 165
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.8298) 111.00864 || 109.16489 || 157.08598 || 218.33734
+2 label: PoleVault score: tensor(0.6925) 129.7792 || 103.54629 || 176.23807 || 216.61263
+3 label: PoleVault score: tensor(0.6113) 90.342995 || 92.42231 || 145.22992 || 196.75656
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g12_c05
+label: PoleVault || 109 || 119 || 156 || 182
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g20_c05
+label: PoleVault || 195 || 6 || 256 || 96
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.9355) 184.73178 || 16.523874 || 225.53566 || 113.971756
+2 label: PoleVault score: tensor(0.6563) 172.7694 || -13.319627 || 239.40195 || 100.49163
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g14_c03
+label: PoleVault || 155 || 99 || 197 || 154
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.6998) 106.83516 || 210.88217 || 154.34718 || 306.41492
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g15_c03
+label: PoleVault || 160 || 100 || 200 || 160
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g25_c02
+label: PoleVault || 147 || 84 || 220 || 154
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.6765) 132.53543 || 122.219345 || 197.26718 || 204.72093
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g10_c07
+label: PoleVault || 205 || 107 || 259 || 168
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.7265) 133.51361 || 137.693 || 181.08995 || 215.51971
+2 label: PoleVault score: tensor(0.7176) 150.13339 || 140.28938 || 200.00786 || 218.20027
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g22_c01
+label: PoleVault || 16 || 57 || 82 || 205
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g13_c05
+label: PoleVault || 132 || 31 || 307 || 215
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.6125) 112.21329 || 18.992025 || 184.27846 || 154.3353
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g14_c04
+label: PoleVault || 149 || 90 || 187 || 134
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.6538) 177.57529 || 156.48672 || 215.15654 || 258.5843
+2 label: PoleVault score: tensor(0.6090) 180.38594 || 92.55658 || 234.84839 || 181.9823
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g11_c04
+label: PoleVault || 39 || 94 || 132 || 206
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g11_c01
+label: PoleVault || 31 || 105 || 116 || 183
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.8904) 55.855366 || 177.68523 || 103.782616 || 285.5488
+2 label: PoleVault score: tensor(0.8618) 34.33145 || 199.75026 || 85.79085 || 289.87088
+3 label: PoleVault score: tensor(0.8210) 49.293404 || 130.79578 || 116.787384 || 212.93604
+4 label: PoleVault score: tensor(0.7915) 80.03388 || 165.60591 || 124.80225 || 263.47467
+5 label: PoleVault score: tensor(0.7829) 30.691675 || 159.9363 || 80.45341 || 252.58575
+6 label: PoleVault score: tensor(0.7283) 89.69653 || 82.84524 || 144.08714 || 164.98929
+7 label: PoleVault score: tensor(0.7012) 76.164024 || 99.135155 || 130.93626 || 179.15811
+8 label: PoleVault score: tensor(0.6901) 79.1603 || 136.71297 || 129.90349 || 202.96828
+9 label: PoleVault score: tensor(0.6836) 19.900791 || 184.96909 || 72.25349 || 272.60867
+10 label: PoleVault score: tensor(0.6482) 39.57895 || 137.94441 || 79.64875 || 197.43745
+11 label: PoleVault score: tensor(0.6337) 102.69181 || 61.88596 || 158.83644 || 150.66742
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g10_c02
+label: PoleVault || 194 || 108 || 238 || 182
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.7239) 159.38394 || 158.83763 || 209.8173 || 231.47719
+2 label: PoleVault score: tensor(0.6642) 198.58977 || 77.45492 || 256.74255 || 173.59352
+3 label: PoleVault score: tensor(0.6548) 230.16125 || 87.54167 || 275.48074 || 182.14992
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g14_c07
+label: PoleVault || 112 || 87 || 179 || 197
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.8335) 99.152695 || 133.4735 || 170.88283 || 229.05898
+2 label: PoleVault score: tensor(0.7231) 68.58392 || 123.157974 || 130.89534 || 233.43898
+3 label: PoleVault score: tensor(0.6900) 15.121393 || 158.28975 || 66.641266 || 241.11879
+4 label: PoleVault score: tensor(0.6852) 4.878317 || 132.95291 || 58.651382 || 222.43881
+5 label: PoleVault score: tensor(0.6792) 56.676872 || 144.00299 || 108.55268 || 246.58752
+6 label: PoleVault score: tensor(0.6719) 35.643654 || 151.27031 || 88.705185 || 242.49365
+7 label: PoleVault score: tensor(0.6659) 93.216225 || 105.93308 || 171.80571 || 183.13208
+8 label: PoleVault score: tensor(0.6555) 121.36292 || 120.22985 || 189.22742 || 217.2837
+9 label: PoleVault score: tensor(0.6444) 119.56746 || 159.71475 || 180.42487 || 248.71457
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g16_c05
+label: PoleVault || 157 || 103 || 200 || 153
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.8522) 146.52576 || 120.03974 || 203.86548 || 197.94109
+2 label: PoleVault score: tensor(0.6295) 124.957985 || 91.60824 || 197.09789 || 164.23659
+3 label: PoleVault score: tensor(0.6121) 165.369 || 70.70741 || 214.38898 || 197.43512
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g18_c05
+label: PoleVault || 143 || 109 || 199 || 183
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.9660) 140.21812 || 111.63932 || 185.08862 || 239.22192
+2 label: PoleVault score: tensor(0.9045) 117.57919 || 151.6264 || 192.14392 || 212.52444
+3 label: PoleVault score: tensor(0.8681) 129.71373 || 154.94492 || 165.53392 || 225.8682
+4 label: PoleVault score: tensor(0.8312) 154.37692 || 132.94904 || 207.99945 || 236.61075
+5 label: PoleVault score: tensor(0.7639) 115.24522 || 144.74422 || 155.40161 || 229.8867
+6 label: PoleVault score: tensor(0.7315) 128.1879 || 119.18046 || 165.9842 || 195.09705
+7 label: PoleVault score: tensor(0.7108) 87.0617 || 90.098366 || 155.4172 || 144.24847
+8 label: PoleVault score: tensor(0.6398) 86.279335 || 112.72598 || 168.31409 || 158.44884
+9 label: PoleVault score: tensor(0.6097) 105.22511 || 127.80555 || 179.54489 || 265.5739
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g20_c03
+label: PoleVault || 106 || 83 || 215 || 230
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.8646) 85.090935 || 121.90742 || 179.54915 || 178.06363
+2 label: PoleVault score: tensor(0.7369) 89.752045 || 174.18456 || 142.01123 || 265.72845
+3 label: PoleVault score: tensor(0.6947) 100.190994 || 138.67415 || 201.927 || 188.45811
+4 label: PoleVault score: tensor(0.6161) 96.95144 || 124.99445 || 204.83447 || 290.0186
+
+GROUND TRUTH FOR: PoleVault/v_PoleVault_g23_c03
+label: PoleVault || 105 || 63 || 158 || 127
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.7239) 77.39196 || 72.62494 || 137.64815 || 169.35356
+2 label: PoleVault score: tensor(0.6395) 158.97188 || 63.657875 || 205.22713 || 167.37695
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g18_c03
+label: Basketball || 31 || 140 || 76 || 240
+PREDICTIONS: 
+1 label: Basketball score: tensor(0.6601) 63.308735 || 183.03294 || 106.17279 || 273.09543
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g13_c04
+label: Basketball || 227 || 92 || 282 || 194
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g21_c03
+label: Basketball || 181 || 97 || 226 || 178
+PREDICTIONS: 
+1 label: Basketball score: tensor(0.9118) 170.79639 || 128.71007 || 218.2079 || 226.03484
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g15_c03
+label: Basketball || 44 || 72 || 114 || 208
+PREDICTIONS: 
+1 label: Basketball score: tensor(0.6371) 50.014893 || 90.01931 || 103.29 || 246.51726
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g22_c05
+label: Basketball || 168 || 57 || 259 || 237
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g20_c01
+label: Basketball || 140 || 105 || 189 || 208
+PREDICTIONS: 
+1 label: Basketball score: tensor(0.9494) 127.994354 || 136.94287 || 169.39291 || 256.12735
+2 label: Basketball score: tensor(0.6813) 149.32527 || 118.80246 || 184.51057 || 250.14488
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g16_c01
+label: Basketball || 175 || 111 || 233 || 223
+PREDICTIONS: 
+1 label: Basketball score: tensor(0.9636) 155.51437 || 151.64688 || 200.83672 || 251.73546
+2 label: Basketball score: tensor(0.9066) 147.84135 || 126.80424 || 229.0668 || 248.31879
+3 label: Basketball score: tensor(0.6712) 172.9321 || 145.07451 || 216.24971 || 247.55226
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g23_c02
+label: Basketball || 11 || 4 || 107 || 212
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g22_c04
+label: Basketball || 161 || 62 || 262 || 239
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g19_c01
+label: Basketball || 122 || 88 || 178 || 183
+PREDICTIONS: 
+1 label: Basketball score: tensor(0.8711) 112.96098 || 110.47876 || 163.35004 || 265.0472
+2 label: Basketball score: tensor(0.6347) 129.35727 || 111.9201 || 179.84964 || 200.74207
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g09_c03
+label: Basketball || 89 || 74 || 136 || 161
+PREDICTIONS: 
+1 label: Basketball score: tensor(0.8449) 76.74401 || 107.26002 || 125.399666 || 204.91435
+2 label: Basketball score: tensor(0.6538) 68.6006 || 85.363075 || 114.6191 || 174.24452
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g13_c01
+label: Basketball || 44 || 47 || 122 || 207
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g22_c06
+label: Basketball || 179 || 67 || 277 || 239
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g09_c04
+label: Basketball || 227 || 67 || 273 || 154
+PREDICTIONS: 
+1 label: Basketball score: tensor(0.7972) 206.51637 || 89.3296 || 244.04382 || 212.79189
+2 label: Basketball score: tensor(0.6853) 182.55785 || 77.954025 || 278.9272 || 207.56429
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g21_c01
+label: Basketball || 171 || 91 || 225 || 184
+PREDICTIONS: 
+1 label: Basketball score: tensor(0.6367) 139.6376 || 121.15082 || 220.9053 || 261.56006
+2 label: PoleVault score: tensor(0.7890) 140.38179 || 182.13036 || 193.6261 || 243.32039
+3 label: PoleVault score: tensor(0.6745) 156.86252 || 192.46754 || 215.80757 || 263.842
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g22_c01
+label: Basketball || 152 || 39 || 263 || 240
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g19_c04
+label: Basketball || 249 || 107 || 304 || 216
+PREDICTIONS: 
+1 label: Basketball score: tensor(0.9817) 251.4802 || 128.18245 || 293.51004 || 222.33932
+2 label: Basketball score: tensor(0.6242) 235.69862 || 110.86227 || 288.5134 || 274.77243
+3 label: PoleVault score: tensor(0.6605) 22.381926 || 182.06769 || 115.84516 || 271.9539
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g11_c05
+label: Basketball || 83 || 100 || 127 || 179
+PREDICTIONS: 
+1 label: Basketball score: tensor(0.8661) 73.3753 || 106.403046 || 112.21227 || 254.9754
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g23_c05
+label: Basketball || 63 || 58 || 119 || 179
+PREDICTIONS: 
+1 label: Basketball score: tensor(0.7548) 60.53113 || 71.00406 || 111.50694 || 216.6063
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g12_c05
+label: Basketball || 137 || 57 || 205 || 227
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.8626) 145.23776 || 9.829167 || 178.24763 || 80.27662
+2 label: PoleVault score: tensor(0.8374) 125.02197 || 3.8507738 || 164.38809 || 74.493034
+3 label: PoleVault score: tensor(0.8022) 132.4025 || 25.450668 || 173.697 || 106.684364
+4 label: PoleVault score: tensor(0.7226) 110.06981 || 23.050001 || 161.17882 || 111.19426
+5 label: PoleVault score: tensor(0.6355) 102.34876 || 5.5183187 || 150.03098 || 78.33196
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g22_c07
+label: Basketball || 180 || 43 || 281 || 240
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g25_c02
+label: Basketball || 73 || 92 || 123 || 192
+PREDICTIONS: 
+1 label: Basketball score: tensor(0.8416) 62.077465 || 83.53395 || 105.4636 || 280.40088
+2 label: Basketball score: tensor(0.6666) 74.83855 || 108.62418 || 121.287865 || 264.04376
+3 label: PoleVault score: tensor(0.6922) 209.42838 || 46.121468 || 288.82935 || 169.11993
+4 label: PoleVault score: tensor(0.6304) 67.53347 || 166.02696 || 104.03696 || 275.60873
+5 label: PoleVault score: tensor(0.6015) 91.04417 || 103.70132 || 149.02048 || 198.26602
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g11_c01
+label: Basketball || 62 || 105 || 144 || 220
+PREDICTIONS: 
+1 label: Basketball score: tensor(0.8113) 108.57303 || 141.0801 || 157.97496 || 233.44638
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g14_c02
+label: Basketball || 48 || 94 || 144 || 228
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g21_c02
+label: Basketball || 155 || 76 || 200 || 151
+PREDICTIONS: 
+1 label: Basketball score: tensor(0.9275) 148.96997 || 95.531075 || 186.02318 || 198.6269
+2 label: Basketball score: tensor(0.8413) 132.72716 || 90.625175 || 170.40361 || 204.19232
+3 label: PoleVault score: tensor(0.6303) 79.12244 || 136.5848 || 131.71455 || 211.43784
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g24_c01
+label: Basketball || 77 || 84 || 117 || 167
+PREDICTIONS: 
+1 label: Basketball score: tensor(0.9963) 54.8123 || 132.95287 || 108.630684 || 199.62405
+2 label: Basketball score: tensor(0.9886) 79.592155 || 83.43882 || 105.22619 || 186.3793
+3 label: Basketball score: tensor(0.9437) 76.98909 || 122.75141 || 118.91188 || 194.96552
+4 label: Basketball score: tensor(0.9420) 68.86429 || 77.54235 || 97.26223 || 197.0889
+5 label: Basketball score: tensor(0.8764) 46.677505 || 104.47717 || 99.418274 || 176.71582
+6 label: Basketball score: tensor(0.6758) 30.165262 || 117.44362 || 84.315834 || 185.84712
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g23_c04
+label: Basketball || 127 || 53 || 186 || 185
+PREDICTIONS: 
+1 label: Basketball score: tensor(0.6620) 114.41787 || 60.654278 || 177.6725 || 237.35036
+2 label: Basketball score: tensor(0.6073) 133.40816 || 104.35942 || 171.4195 || 188.8928
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g21_c04
+label: Basketball || 56 || 95 || 97 || 171
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g08_c02
+label: Basketball || 245 || 68 || 288 || 152
+PREDICTIONS: 
+1 label: Basketball score: tensor(0.9586) 217.613 || 5.425474 || 290.14658 || 204.6564
+2 label: Basketball score: tensor(0.6993) 206.2261 || 69.04085 || 246.47408 || 182.15836
+3 label: Basketball score: tensor(0.6673) 241.39838 || 47.783485 || 295.73434 || 171.865
+4 label: Basketball score: tensor(0.6320) 233.82578 || 70.054085 || 276.45584 || 204.54108
+5 label: PoleVault score: tensor(0.8013) 211.75267 || 80.35755 || 253.39948 || 178.7761
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g18_c01
+label: Basketball || 175 || 119 || 253 || 240
+PREDICTIONS: 
+1 label: Basketball score: tensor(0.9825) 159.74947 || 148.32446 || 270.11612 || 335.73816
+2 label: Basketball score: tensor(0.9337) 168.94177 || 156.28938 || 222.71472 || 275.50787
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g08_c01
+label: Basketball || 37 || 98 || 89 || 203
+PREDICTIONS: 
+1 label: Basketball score: tensor(0.9571) 45.414608 || 140.93813 || 76.55787 || 241.55353
+2 label: Basketball score: tensor(0.8394) 60.96985 || 134.15111 || 91.32716 || 239.48279
+3 label: Basketball score: tensor(0.6619) 19.77967 || 101.66223 || 77.88762 || 282.07715
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g15_c07
+label: Basketball || 132 || 53 || 189 || 211
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g17_c03
+label: Basketball || 112 || 86 || 165 || 183
+PREDICTIONS: 
+1 label: Basketball score: tensor(0.7702) 111.206856 || 118.987816 || 164.46288 || 208.37743
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g19_c07
+label: Basketball || 16 || 100 || 73 || 217
+PREDICTIONS: 
+1 label: Basketball score: tensor(0.6602) 23.685408 || 93.78924 || 73.890175 || 264.9012
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g13_c03
+label: Basketball || 9 || 85 || 82 || 213
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g14_c05
+label: Basketball || 65 || 97 || 144 || 227
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g21_c06
+label: Basketball || 171 || 51 || 248 || 181
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g16_c05
+label: Basketball || 77 || 66 || 159 || 239
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g25_c01
+label: Basketball || 167 || 87 || 213 || 165
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g10_c02
+label: Basketball || 3 || 59 || 66 || 185
+PREDICTIONS: 
+1 label: Basketball score: tensor(0.8703) 5.575555 || 47.877483 || 70.61628 || 246.33331
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g19_c03
+label: Basketball || 24 || 101 || 61 || 183
+PREDICTIONS: 
+1 label: Basketball score: tensor(0.9597) 24.938086 || 137.61133 || 53.79755 || 226.69237
+2 label: Basketball score: tensor(0.8453) 11.548539 || 137.6737 || 42.515327 || 232.82518
+3 label: Basketball score: tensor(0.7290) 39.425972 || 134.87968 || 74.91205 || 220.15375
+4 label: Basketball score: tensor(0.6251) 35.139645 || 100.710396 || 76.86027 || 190.1463
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g18_c05
+label: Basketball || 217 || 88 || 292 || 238
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g15_c04
+label: Basketball || 60 || 63 || 118 || 185
+PREDICTIONS: 
+1 label: Basketball score: tensor(0.8103) 61.199955 || 82.00968 || 114.87462 || 230.03822
+2 label: Basketball score: tensor(0.7660) 231.39236 || 92.07478 || 272.77704 || 233.10449
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g12_c03
+label: Basketball || 136 || 51 || 206 || 232
+PREDICTIONS: 
+1 label: Basketball score: tensor(0.7491) 133.19308 || 91.16386 || 170.18817 || 188.66003
+2 label: Basketball score: tensor(0.7311) 123.0673 || 71.824104 || 189.31754 || 268.18616
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g11_c04
+label: Basketball || 149 || 102 || 189 || 178
+PREDICTIONS: 
+1 label: Basketball score: tensor(0.9551) 136.733 || 115.47292 || 180.79315 || 234.33585
+2 label: Basketball score: tensor(0.7077) 154.9432 || 96.307434 || 190.5178 || 233.56444
+3 label: PoleVault score: tensor(0.8164) 140.4597 || 56.311913 || 194.2204 || 156.58554
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g10_c01
+label: Basketball || 1 || 38 || 98 || 237
+PREDICTIONS: 
+1 label: Basketball score: tensor(0.6787) 21.413 || 84.3023 || 91.89997 || 307.26953
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g08_c03
+label: Basketball || 28 || 68 || 159 || 240
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g25_c04
+label: Basketball || 5 || 124 || 64 || 240
+PREDICTIONS: 
+1 label: Basketball score: tensor(0.6171) 16.48324 || 137.50928 || 73.204636 || 307.43286
+2 label: PoleVault score: tensor(0.6226) 204.5684 || 37.038155 || 283.70078 || 145.46228
+3 label: PoleVault score: tensor(0.6049) 159.76537 || 189.63664 || 201.36108 || 303.45032
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g14_c03
+label: Basketball || 129 || 129 || 211 || 226
+PREDICTIONS: 
+1 label: Basketball score: tensor(0.6079) 101.5899 || 145.85304 || 206.02357 || 275.7908
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g10_c04
+label: Basketball || 282 || 93 || 318 || 218
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.6712) 201.88457 || 52.79117 || 268.37396 || 129.13762
+2 label: PoleVault score: tensor(0.6054) 271.6674 || 108.103035 || 325.47647 || 190.01108
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g11_c02
+label: Basketball || 132 || 56 || 208 || 237
+PREDICTIONS: 
+1 label: Basketball score: tensor(0.7209) 140.53114 || 77.14326 || 201.62852 || 305.81046
+2 label: PoleVault score: tensor(0.6872) 155.63583 || 89.283356 || 192.48772 || 195.55278
+3 label: PoleVault score: tensor(0.6004) 154.36766 || 139.99104 || 193.94444 || 230.68074
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g09_c01
+label: Basketball || 145 || 77 || 181 || 152
+PREDICTIONS: 
+1 label: Basketball score: tensor(0.8963) 128.68027 || 104.20003 || 171.9424 || 209.85693
+2 label: Basketball score: tensor(0.7557) 106.08719 || 103.808426 || 146.34386 || 175.11551
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g10_c03
+label: Basketball || 251 || 46 || 309 || 187
+PREDICTIONS: 
+1 label: Basketball score: tensor(0.8264) 240.17891 || 39.128254 || 291.40994 || 214.13727
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g19_c02
+label: Basketball || 129 || 85 || 204 || 185
+PREDICTIONS: 
+1 label: Basketball score: tensor(0.9128) 141.23383 || 111.59035 || 189.23953 || 229.8937
+2 label: Basketball score: tensor(0.7774) 155.43854 || 119.20251 || 192.83717 || 188.74275
+3 label: Basketball score: tensor(0.6190) 170.9076 || 111.659004 || 208.29523 || 192.38295
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g20_c04
+label: Basketball || 171 || 101 || 217 || 214
+PREDICTIONS: 
+1 label: Basketball score: tensor(0.9882) 144.53606 || 130.20653 || 201.27498 || 277.88934
+2 label: Basketball score: tensor(0.9797) 181.07346 || 115.61756 || 209.90022 || 273.62036
+3 label: Basketball score: tensor(0.6164) 169.42387 || 139.09769 || 198.56422 || 266.26993
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g18_c02
+label: Basketball || 163 || 138 || 224 || 236
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g25_c03
+label: Basketball || 3 || 110 || 67 || 239
+PREDICTIONS: 
+1 label: Basketball score: tensor(0.9390) -15.929248 || 132.49457 || 80.929276 || 295.32578
+2 label: Basketball score: tensor(0.8924) 8.26092 || 62.72655 || 55.092762 || 292.45844
+3 label: Basketball score: tensor(0.7474) 1.7814047 || 162.18825 || 58.001606 || 252.64526
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g14_c01
+label: Basketball || 43 || 74 || 128 || 228
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g16_c03
+label: Basketball || 87 || 99 || 136 || 197
+PREDICTIONS: 
+1 label: Basketball score: tensor(0.9809) 77.3016 || 117.77739 || 129.4675 || 250.3377
+2 label: Basketball score: tensor(0.9588) 79.86844 || 56.442314 || 148.30635 || 310.41098
+3 label: Basketball score: tensor(0.6529) 107.75789 || 148.31876 || 157.32898 || 252.01761
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g24_c04
+label: Basketball || 60 || 87 || 104 || 152
+PREDICTIONS: 
+1 label: Basketball score: tensor(0.9689) 51.837757 || 114.43718 || 91.4006 || 202.7207
+2 label: Basketball score: tensor(0.8511) 65.005135 || 123.96002 || 104.415016 || 195.80225
+3 label: Basketball score: tensor(0.7158) 35.061546 || 116.81028 || 77.61841 || 199.65533
+4 label: Basketball score: tensor(0.6176) 60.713615 || 94.468605 || 96.333046 || 178.94748
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g20_c03
+label: Basketball || 123 || 89 || 166 || 190
+PREDICTIONS: 
+1 label: Basketball score: tensor(0.9762) 116.565315 || 77.54293 || 162.3288 || 280.65808
+2 label: Basketball score: tensor(0.8981) 94.22185 || 103.08345 || 151.25627 || 254.1986
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g24_c03
+label: Basketball || 7 || 77 || 49 || 177
+PREDICTIONS: 
+1 label: Basketball score: tensor(0.9773) 16.01385 || 99.46031 || 60.653893 || 219.49178
+2 label: Basketball score: tensor(0.9355) 4.853006 || 136.92812 || 43.089928 || 215.75691
+3 label: Basketball score: tensor(0.6798) 34.50815 || 95.89968 || 71.27008 || 203.40594
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g20_c07
+label: Basketball || 139 || 126 || 186 || 217
+PREDICTIONS: 
+1 label: Basketball score: tensor(0.9973) 129.3305 || 144.84924 || 174.88264 || 306.08948
+2 label: Basketball score: tensor(0.8529) 151.07315 || 89.00536 || 186.87856 || 340.38666
+3 label: Basketball score: tensor(0.7169) 117.9048 || 108.79216 || 162.92485 || 275.28152
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g20_c06
+label: Basketball || 164 || 121 || 216 || 237
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g16_c02
+label: Basketball || 173 || 89 || 231 || 221
+PREDICTIONS: 
+1 label: Basketball score: tensor(0.8225) 160.04968 || 146.91206 || 200.75298 || 249.01332
+2 label: Basketball score: tensor(0.6992) 157.64374 || 95.564964 || 214.99002 || 283.56235
+3 label: Basketball score: tensor(0.6770) 174.44919 || 149.84415 || 217.88385 || 264.2663
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g19_c06
+label: Basketball || 41 || 84 || 131 || 236
+PREDICTIONS: 
+1 label: Basketball score: tensor(0.7391) 53.566536 || 95.34811 || 119.33453 || 291.2547
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g23_c01
+label: Basketball || 73 || 43 || 145 || 197
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g23_c03
+label: Basketball || 117 || 44 || 182 || 190
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g16_c06
+label: Basketball || 54 || 93 || 136 || 240
+PREDICTIONS: 
+1 label: Basketball score: tensor(0.7973) 57.93978 || 108.93309 || 119.25401 || 296.21722
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g25_c05
+label: Basketball || 78 || 90 || 138 || 176
+PREDICTIONS: 
+1 label: Basketball score: tensor(0.8350) 70.43927 || 114.96453 || 132.85846 || 238.83266
+2 label: PoleVault score: tensor(0.7211) 217.5702 || 48.778652 || 288.39166 || 153.12236
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g15_c06
+label: Basketball || 161 || 36 || 227 || 214
+PREDICTIONS: 
+1 label: Basketball score: tensor(0.7652) 152.29773 || 60.136208 || 211.55173 || 267.44797
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g18_c04
+label: Basketball || 14 || 118 || 79 || 239
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g12_c01
+label: Basketball || 142 || 25 || 220 || 199
+PREDICTIONS: 
+1 label: Basketball score: tensor(0.7113) 190.11584 || 110.80296 || 230.43073 || 222.80917
+2 label: Basketball score: tensor(0.7079) 178.21739 || 130.69203 || 217.54149 || 228.83821
+3 label: Basketball score: tensor(0.6659) 140.17834 || 57.37693 || 206.68373 || 281.52988
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g09_c05
+label: Basketball || 204 || 73 || 239 || 154
+PREDICTIONS: 
+1 label: Basketball score: tensor(0.7344) 158.05872 || 88.96398 || 257.3957 || 231.54094
+2 label: Basketball score: tensor(0.6525) 185.48207 || 87.98518 || 226.74759 || 190.10854
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g12_c04
+label: Basketball || 114 || 39 || 184 || 214
+PREDICTIONS: 
+1 label: Basketball score: tensor(0.8412) 106.51317 || 32.10539 || 182.52597 || 269.3357
+2 label: PoleVault score: tensor(0.8589) 223.85112 || 33.05463 || 277.88522 || 95.136826
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g21_c05
+label: Basketball || 35 || 105 || 86 || 177
+PREDICTIONS: 
+1 label: Basketball score: tensor(0.7973) 30.869528 || 126.49956 || 74.38503 || 223.06097
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g15_c02
+label: Basketball || 24 || 75 || 62 || 165
+PREDICTIONS: 
+1 label: Basketball score: tensor(0.9548) 35.798897 || 95.80659 || 78.31095 || 219.08258
+2 label: Basketball score: tensor(0.6494) 20.941128 || 114.398506 || 62.236023 || 202.88286
+3 label: Basketball score: tensor(0.6349) 15.7520275 || 71.8635 || 72.33894 || 239.22443
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g12_c02
+label: Basketball || 156 || 64 || 225 || 238
+PREDICTIONS: 
+1 label: Basketball score: tensor(0.9467) 143.82433 || 84.03621 || 219.26987 || 320.87292
+2 label: Basketball score: tensor(0.7571) 169.3258 || 181.52126 || 205.13567 || 267.84732
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g20_c02
+label: Basketball || 157 || 92 || 203 || 185
+PREDICTIONS: 
+1 label: Basketball score: tensor(0.9884) 159.97284 || 128.41829 || 207.43718 || 222.18951
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g17_c04
+label: Basketball || 150 || 64 || 196 || 160
+PREDICTIONS: 
+1 label: Basketball score: tensor(0.9703) 140.43492 || 108.48954 || 175.03131 || 218.293
+2 label: Basketball score: tensor(0.6860) 119.63769 || 86.73456 || 161.34256 || 213.8192
+3 label: PoleVault score: tensor(0.8113) 88.3834 || 168.51007 || 132.95453 || 216.03903
+4 label: PoleVault score: tensor(0.8046) 70.84143 || 151.68187 || 124.357704 || 206.87611
+5 label: TennisSwing score: tensor(0.6068) 141.57555 || 111.23661 || 199.05533 || 251.7903
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g16_c04
+label: Basketball || 149 || 110 || 212 || 208
+PREDICTIONS: 
+1 label: Basketball score: tensor(0.9786) 126.686295 || 166.3529 || 207.67528 || 277.84164
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g11_c03
+label: Basketball || 139 || 96 || 192 || 180
+PREDICTIONS: 
+1 label: Basketball score: tensor(0.9101) 110.40785 || 108.3693 || 169.9243 || 228.52039
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g17_c01
+label: Basketball || 191 || 90 || 229 || 176
+PREDICTIONS: 
+1 label: Basketball score: tensor(0.7174) 170.19585 || 119.915375 || 223.23972 || 240.47649
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g14_c04
+label: Basketball || 235 || 98 || 296 || 224
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g19_c05
+label: Basketball || 246 || 128 || 294 || 227
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.6051) 8.856819 || 200.43544 || 43.48029 || 277.7899
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g25_c06
+label: Basketball || 56 || 122 || 108 || 219
+PREDICTIONS: 
+1 label: Basketball score: tensor(0.9846) 64.03463 || 138.12839 || 105.83271 || 260.67798
+2 label: Basketball score: tensor(0.9709) 52.22491 || 142.25919 || 88.41302 || 263.75348
+3 label: Basketball score: tensor(0.7614) 76.73793 || 161.94476 || 119.91952 || 302.82074
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g13_c02
+label: Basketball || 206 || 88 || 265 || 187
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g15_c01
+label: Basketball || 227 || 46 || 280 || 206
+PREDICTIONS: 
+1 label: Basketball score: tensor(0.7211) 215.16972 || 45.273872 || 270.21515 || 260.3101
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g22_c02
+label: Basketball || 189 || 26 || 306 || 239
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g23_c06
+label: Basketball || 173 || 67 || 229 || 164
+PREDICTIONS: 
+1 label: Basketball score: tensor(0.7136) 154.65117 || 105.38525 || 204.97551 || 205.61336
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g08_c04
+label: Basketball || 36 || 107 || 90 || 201
+PREDICTIONS: 
+1 label: Basketball score: tensor(0.9851) 43.335236 || 148.0627 || 82.66765 || 243.72285
+2 label: Basketball score: tensor(0.8333) 53.684574 || 128.94113 || 97.193886 || 250.6233
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g09_c02
+label: Basketball || 128 || 28 || 192 || 187
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g24_c02
+label: Basketball || 5 || 86 || 47 || 169
+PREDICTIONS: 
+1 label: Basketball score: tensor(0.9623) 4.848064 || 93.037964 || 53.10298 || 211.51418
+2 label: Basketball score: tensor(0.9604) 10.782163 || 121.10906 || 36.88312 || 191.91669
+3 label: Basketball score: tensor(0.7979) 21.673866 || 122.92362 || 47.66974 || 198.61703
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g22_c03
+label: Basketball || 188 || 44 || 294 || 239
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g15_c05
+label: Basketball || 46 || 66 || 95 || 184
+PREDICTIONS: 
+1 label: Basketball score: tensor(0.8161) 49.249466 || 171.18831 || 84.24122 || 249.04706
+2 label: Basketball score: tensor(0.8155) 43.727802 || 69.45316 || 91.74766 || 233.86302
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g20_c05
+label: Basketball || 161 || 106 || 209 || 203
+PREDICTIONS: 
+1 label: Basketball score: tensor(0.9922) 152.28839 || 100.75473 || 200.1868 || 253.52817
+2 label: Basketball score: tensor(0.9180) 129.998 || 96.721344 || 181.98415 || 291.883
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g25_c07
+label: Basketball || 53 || 111 || 101 || 202
+PREDICTIONS: 
+1 label: Basketball score: tensor(0.9727) 52.687893 || 132.48616 || 92.722305 || 229.59117
+2 label: Basketball score: tensor(0.8624) 68.364784 || 139.75092 || 109.816376 || 236.23299
+3 label: Basketball score: tensor(0.7800) 38.41018 || 116.21192 || 80.96777 || 226.63632
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g17_c02
+label: Basketball || 96 || 78 || 159 || 189
+
+GROUND TRUTH FOR: Basketball/v_Basketball_g10_c05
+label: Basketball || 236 || 61 || 304 || 236
+PREDICTIONS: 
+1 label: Basketball score: tensor(0.8138) 212.822 || 61.36181 || 276.74796 || 258.5255
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g08_c02
+label: TennisSwing || 235 || 86 || 288 || 182
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.6631) 93.33601 || 120.96578 || 158.3063 || 216.69531
+2 label: PoleVault score: tensor(0.6506) 66.122574 || 124.764206 || 128.49464 || 216.72803
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g23_c06
+label: TennisSwing || 75 || 64 || 200 || 240
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g08_c04
+label: TennisSwing || 218 || 102 || 293 || 204
+PREDICTIONS: 
+1 label: TennisSwing score: tensor(0.7623) 191.28748 || 138.31058 || 245.70341 || 243.57419
+2 label: TennisSwing score: tensor(0.7400) 207.66049 || 100.01565 || 279.0992 || 242.3358
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g18_c06
+label: TennisSwing || 101 || 43 || 167 || 179
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g16_c07
+label: TennisSwing || 38 || 94 || 106 || 173
+PREDICTIONS: 
+1 label: TennisSwing score: tensor(0.8976) 32.551952 || 126.65182 || 89.32903 || 217.91432
+2 label: TennisSwing score: tensor(0.7990) 51.65243 || 117.172356 || 121.0234 || 204.40114
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g12_c04
+label: TennisSwing || 187 || 56 || 263 || 192
+PREDICTIONS: 
+1 label: TennisSwing score: tensor(0.7900) 173.33066 || 91.84504 || 248.3426 || 253.82489
+2 label: TennisSwing score: tensor(0.6271) 200.33763 || 85.22883 || 276.3918 || 281.2646
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g22_c06
+label: TennisSwing || 207 || 91 || 259 || 150
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g20_c04
+label: TennisSwing || 142 || 90 || 198 || 187
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.6514) 146.40256 || 153.14981 || 207.3328 || 244.04118
+2 label: TennisSwing score: tensor(0.9672) 127.60733 || 108.26808 || 174.64822 || 234.70738
+3 label: TennisSwing score: tensor(0.6778) 154.11768 || 96.19827 || 200.82172 || 251.0949
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g23_c01
+label: TennisSwing || 151 || 113 || 210 || 188
+PREDICTIONS: 
+1 label: TennisSwing score: tensor(0.9763) 137.59193 || 131.85483 || 196.99318 || 235.87035
+2 label: TennisSwing score: tensor(0.8740) 160.88606 || 155.80338 || 203.09528 || 233.91808
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g19_c04
+label: TennisSwing || 27 || 42 || 155 || 229
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g18_c01
+label: TennisSwing || 127 || 59 || 186 || 168
+PREDICTIONS: 
+1 label: TennisSwing score: tensor(0.7335) 114.10571 || 67.30386 || 173.04994 || 204.5235
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g13_c02
+label: TennisSwing || 147 || 88 || 201 || 172
+PREDICTIONS: 
+1 label: TennisSwing score: tensor(0.9720) 132.26231 || 126.202415 || 191.60472 || 212.80128
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g12_c02
+label: TennisSwing || 114 || 60 || 195 || 187
+PREDICTIONS: 
+1 label: TennisSwing score: tensor(0.6572) 107.96528 || 78.81832 || 187.59976 || 243.13673
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g08_c05
+label: TennisSwing || 88 || 100 || 169 || 227
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g09_c06
+label: TennisSwing || 119 || 47 || 228 || 169
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g25_c04
+label: TennisSwing || 77 || 78 || 150 || 170
+PREDICTIONS: 
+1 label: TennisSwing score: tensor(0.9387) 80.62035 || 107.39282 || 139.94458 || 194.77988
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g21_c01
+label: TennisSwing || 83 || 24 || 169 || 190
+PREDICTIONS: 
+1 label: TennisSwing score: tensor(0.8404) 78.31794 || 54.170815 || 149.8297 || 220.63919
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g23_c04
+label: TennisSwing || 92 || 32 || 196 || 204
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.6371) 92.22602 || 110.305626 || 146.6191 || 184.29492
+2 label: TennisSwing score: tensor(0.6826) 97.06707 || 37.784313 || 178.83133 || 236.32243
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g24_c02
+label: TennisSwing || 152 || 70 || 223 || 198
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g14_c07
+label: TennisSwing || 120 || 55 || 224 || 215
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g22_c05
+label: TennisSwing || 124 || 113 || 164 || 170
+PREDICTIONS: 
+1 label: TennisSwing score: tensor(0.9988) 125.88532 || 123.57754 || 153.96521 || 201.16507
+2 label: TennisSwing score: tensor(0.9932) 109.525955 || 119.6914 || 138.79825 || 191.84189
+3 label: TennisSwing score: tensor(0.9735) 138.28148 || 125.0149 || 167.33968 || 206.29123
+4 label: TennisSwing score: tensor(0.9253) 114.648544 || 143.8917 || 149.38913 || 217.47697
+5 label: TennisSwing score: tensor(0.8843) 101.02221 || 143.968 || 137.06697 || 213.68988
+6 label: TennisSwing score: tensor(0.7794) 93.935616 || 118.686035 || 122.99486 || 188.24216
+7 label: TennisSwing score: tensor(0.6190) 104.50416 || 99.666016 || 174.10417 || 259.59183
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g23_c05
+label: TennisSwing || 62 || 88 || 138 || 177
+PREDICTIONS: 
+1 label: TennisSwing score: tensor(0.9937) 44.587193 || 135.70204 || 100.303345 || 199.93129
+2 label: TennisSwing score: tensor(0.9554) 37.382942 || 114.99097 || 113.89897 || 180.09184
+3 label: TennisSwing score: tensor(0.8572) 77.030495 || 141.85492 || 129.38162 || 210.26543
+4 label: TennisSwing score: tensor(0.7144) 58.266685 || 113.98413 || 148.46875 || 223.85474
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g25_c02
+label: TennisSwing || 65 || 78 || 132 || 170
+PREDICTIONS: 
+1 label: TennisSwing score: tensor(0.9468) 51.814693 || 89.0363 || 119.147125 || 223.2216
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g19_c06
+label: TennisSwing || 71 || 27 || 170 || 199
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g10_c04
+label: TennisSwing || 121 || 59 || 206 || 183
+PREDICTIONS: 
+1 label: TennisSwing score: tensor(0.7243) 136.3165 || 75.62338 || 215.74928 || 234.78145
+2 label: TennisSwing score: tensor(0.6836) 165.28828 || 82.24057 || 242.53029 || 243.23784
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g09_c03
+label: TennisSwing || 117 || 50 || 216 || 174
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g09_c05
+label: TennisSwing || 173 || 46 || 265 || 166
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g17_c07
+label: TennisSwing || 82 || 88 || 136 || 158
+PREDICTIONS: 
+1 label: TennisSwing score: tensor(0.8856) 83.20862 || 79.10147 || 126.28399 || 222.29369
+2 label: TennisSwing score: tensor(0.8728) 75.498634 || 110.97191 || 117.74127 || 195.00235
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g11_c01
+label: TennisSwing || 162 || 50 || 239 || 170
+PREDICTIONS: 
+1 label: TennisSwing score: tensor(0.9578) 160.131 || 88.70736 || 214.56544 || 200.43365
+2 label: TennisSwing score: tensor(0.7116) 117.98406 || 21.732044 || 190.69601 || 182.61095
+3 label: TennisSwing score: tensor(0.6382) 168.99115 || 55.73173 || 239.95132 || 196.94203
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g15_c05
+label: TennisSwing || 187 || 54 || 257 || 186
+PREDICTIONS: 
+1 label: TennisSwing score: tensor(0.8794) 168.77133 || 49.7731 || 242.96143 || 217.90599
+2 label: TennisSwing score: tensor(0.6729) 200.7661 || 62.995102 || 270.52396 || 223.2517
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g22_c01
+label: TennisSwing || 138 || 106 || 177 || 166
+PREDICTIONS: 
+1 label: TennisSwing score: tensor(0.9517) 125.206 || 134.22621 || 160.84653 || 219.59732
+2 label: TennisSwing score: tensor(0.9009) 135.97847 || 115.59706 || 165.2008 || 202.96909
+3 label: TennisSwing score: tensor(0.7991) 113.40876 || 140.04404 || 146.81587 || 219.43524
+4 label: TennisSwing score: tensor(0.6324) 138.98715 || 135.96384 || 176.26454 || 224.27765
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g21_c05
+label: TennisSwing || 139 || 59 || 224 || 206
+PREDICTIONS: 
+1 label: TennisSwing score: tensor(0.7680) 129.15967 || 58.184803 || 215.84927 || 249.2667
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g11_c07
+label: TennisSwing || 111 || 45 || 172 || 158
+PREDICTIONS: 
+1 label: TennisSwing score: tensor(0.6061) 109.655106 || 40.766277 || 174.17125 || 192.54616
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g14_c02
+label: TennisSwing || 114 || 45 || 231 || 196
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g11_c03
+label: TennisSwing || 159 || 45 || 217 || 159
+PREDICTIONS: 
+1 label: TennisSwing score: tensor(0.9197) 146.95973 || 39.13895 || 213.35951 || 188.33992
+2 label: TennisSwing score: tensor(0.6349) 165.42862 || 21.103764 || 241.8298 || 183.60336
+3 label: TennisSwing score: tensor(0.6336) 115.05732 || 35.86186 || 188.39334 || 201.8399
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g21_c03
+label: TennisSwing || 119 || 17 || 190 || 174
+PREDICTIONS: 
+1 label: TennisSwing score: tensor(0.7285) 111.56735 || 16.800383 || 180.55846 || 209.51819
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g10_c01
+label: TennisSwing || 108 || 35 || 191 || 175
+PREDICTIONS: 
+1 label: TennisSwing score: tensor(0.8961) 103.50656 || 72.79534 || 171.42427 || 237.4244
+2 label: TennisSwing score: tensor(0.8052) 75.5184 || 96.49605 || 152.76094 || 261.75043
+3 label: TennisSwing score: tensor(0.6488) 75.78851 || 28.216965 || 154.22668 || 191.5431
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g15_c01
+label: TennisSwing || 195 || 29 || 274 || 189
+PREDICTIONS: 
+1 label: TennisSwing score: tensor(0.7280) 200.65102 || 25.401995 || 276.00397 || 208.69693
+2 label: TennisSwing score: tensor(0.6916) 177.07913 || 34.404392 || 249.31439 || 197.59201
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g18_c04
+label: TennisSwing || 85 || 49 || 151 || 185
+PREDICTIONS: 
+1 label: TennisSwing score: tensor(0.6980) 81.6658 || 55.123158 || 140.0767 || 215.80675
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g10_c07
+label: TennisSwing || 195 || 28 || 280 || 191
+PREDICTIONS: 
+1 label: TennisSwing score: tensor(0.8274) 174.70668 || 41.32544 || 251.06435 || 199.60976
+2 label: TennisSwing score: tensor(0.7753) 202.28485 || 67.35315 || 272.74463 || 234.48477
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g20_c02
+label: TennisSwing || 20 || 24 || 142 || 175
+PREDICTIONS: 
+1 label: Basketball score: tensor(0.6250) 57.613564 || 102.58706 || 117.17838 || 225.61559
+2 label: TennisSwing score: tensor(0.8198) 44.59629 || 59.85755 || 115.83885 || 230.91855
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g10_c02
+label: TennisSwing || 172 || 72 || 250 || 177
+PREDICTIONS: 
+1 label: TennisSwing score: tensor(0.8701) 139.60724 || 65.79963 || 219.83514 || 234.65721
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g17_c01
+label: TennisSwing || 54 || 83 || 113 || 162
+PREDICTIONS: 
+1 label: Basketball score: tensor(0.8039) 54.371925 || 106.67063 || 99.41155 || 206.07666
+2 label: TennisSwing score: tensor(0.6221) 46.962162 || 71.72979 || 108.89024 || 223.42465
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g18_c05
+label: TennisSwing || 101 || 43 || 167 || 179
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g13_c05
+label: TennisSwing || 124 || 78 || 174 || 177
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.6920) 45.553654 || 105.05198 || 99.030106 || 169.23192
+2 label: TennisSwing score: tensor(0.8569) 124.09041 || 114.89972 || 163.20305 || 226.43216
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g12_c05
+label: TennisSwing || 149 || 63 || 207 || 185
+PREDICTIONS: 
+1 label: TennisSwing score: tensor(0.6807) 144.28656 || 61.9093 || 206.80836 || 225.83795
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g15_c07
+label: TennisSwing || 81 || 79 || 159 || 195
+PREDICTIONS: 
+1 label: TennisSwing score: tensor(0.6633) 102.67088 || 88.86425 || 177.00423 || 242.42712
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g16_c04
+label: TennisSwing || 75 || 96 || 141 || 169
+PREDICTIONS: 
+1 label: TennisSwing score: tensor(0.9984) 55.372078 || 121.09167 || 118.86108 || 195.20709
+2 label: TennisSwing score: tensor(0.7286) 76.60164 || 126.36003 || 141.00122 || 227.23703
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g08_c01
+label: TennisSwing || 206 || 83 || 278 || 185
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.6555) 51.88048 || 152.98187 || 87.01132 || 234.50748
+2 label: PoleVault score: tensor(0.6023) -39.867317 || 160.08499 || 32.44024 || 243.08542
+3 label: TennisSwing score: tensor(0.9709) 190.66624 || 118.09883 || 250.82306 || 196.98654
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g17_c03
+label: TennisSwing || 67 || 83 || 118 || 157
+PREDICTIONS: 
+1 label: TennisSwing score: tensor(0.7055) 72.30608 || 101.761345 || 133.12346 || 199.61314
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g20_c03
+label: TennisSwing || 62 || 44 || 169 || 192
+PREDICTIONS: 
+1 label: TennisSwing score: tensor(0.6970) 79.30292 || 60.770596 || 145.48003 || 220.77548
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g19_c02
+label: TennisSwing || 100 || 44 || 187 || 169
+PREDICTIONS: 
+1 label: TennisSwing score: tensor(0.9851) 84.13635 || 88.71147 || 185.24326 || 185.81546
+2 label: TennisSwing score: tensor(0.8009) 75.60745 || 70.058334 || 156.50377 || 239.97528
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g15_c03
+label: TennisSwing || 99 || 54 || 177 || 184
+PREDICTIONS: 
+1 label: TennisSwing score: tensor(0.8574) 73.357346 || 14.468828 || 149.33029 || 199.30618
+2 label: TennisSwing score: tensor(0.7014) 98.194244 || 41.982876 || 176.10884 || 191.58916
+3 label: TennisSwing score: tensor(0.6247) 43.95283 || 19.680395 || 118.0894 || 180.36847
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g17_c04
+label: TennisSwing || 114 || 67 || 176 || 173
+PREDICTIONS: 
+1 label: TennisSwing score: tensor(0.6560) 103.89288 || 72.80499 || 172.40688 || 224.01445
+2 label: TennisSwing score: tensor(0.6545) 113.01337 || 119.73666 || 156.65515 || 224.944
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g25_c01
+label: TennisSwing || 115 || 77 || 183 || 176
+PREDICTIONS: 
+1 label: TennisSwing score: tensor(0.9885) 105.47732 || 129.76924 || 156.324 || 210.08334
+2 label: TennisSwing score: tensor(0.8361) 114.725555 || 90.92565 || 178.21533 || 234.54958
+3 label: TennisSwing score: tensor(0.6386) 79.78728 || 100.999695 || 149.74608 || 257.60153
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g25_c06
+label: TennisSwing || 42 || 83 || 105 || 163
+PREDICTIONS: 
+1 label: TennisSwing score: tensor(0.8384) 46.70575 || 101.47464 || 99.79647 || 203.29634
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g13_c03
+label: TennisSwing || 139 || 84 || 202 || 173
+PREDICTIONS: 
+1 label: TennisSwing score: tensor(0.9104) 124.141495 || 93.73862 || 189.92067 || 223.98799
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g17_c05
+label: TennisSwing || 98 || 81 || 146 || 167
+PREDICTIONS: 
+1 label: TennisSwing score: tensor(0.9398) 92.768974 || 87.31749 || 145.31421 || 213.79381
+2 label: TennisSwing score: tensor(0.8371) 75.58938 || 108.46865 || 115.0818 || 200.849
+3 label: TennisSwing score: tensor(0.6448) 102.849686 || 73.6897 || 175.80656 || 228.33731
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g20_c05
+label: TennisSwing || 149 || 80 || 214 || 176
+PREDICTIONS: 
+1 label: TennisSwing score: tensor(0.9865) 132.21619 || 112.6892 || 196.92833 || 190.38684
+2 label: TennisSwing score: tensor(0.7688) 134.57874 || 78.4793 || 210.7967 || 246.88342
+3 label: TennisSwing score: tensor(0.6504) 157.02011 || 126.61692 || 209.79218 || 201.57959
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g16_c05
+label: TennisSwing || 79 || 95 || 156 || 176
+PREDICTIONS: 
+1 label: TennisSwing score: tensor(0.9991) 70.97547 || 118.355316 || 136.52946 || 206.53537
+2 label: TennisSwing score: tensor(0.9687) 96.47996 || 124.78262 || 153.24597 || 196.05334
+3 label: TennisSwing score: tensor(0.7924) 49.43666 || 82.31459 || 116.49341 || 239.58781
+4 label: TennisSwing score: tensor(0.7783) 103.38599 || 64.732796 || 174.11632 || 215.68877
+5 label: TennisSwing score: tensor(0.7541) 81.202644 || 92.95575 || 150.80087 || 243.6828
+6 label: TennisSwing score: tensor(0.6274) 137.91226 || 58.95463 || 201.01372 || 220.95401
+7 label: TennisSwing score: tensor(0.6170) 65.60572 || 145.0979 || 130.154 || 239.54568
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g17_c02
+label: TennisSwing || 97 || 79 || 147 || 166
+PREDICTIONS: 
+1 label: TennisSwing score: tensor(0.9579) 65.279396 || 110.23364 || 144.87843 || 234.47546
+2 label: TennisSwing score: tensor(0.7503) 103.721436 || 88.81758 || 144.29866 || 200.48901
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g21_c02
+label: TennisSwing || 66 || 26 || 141 || 161
+PREDICTIONS: 
+1 label: TennisSwing score: tensor(0.7740) 53.78773 || 34.373142 || 116.23469 || 186.72334
+2 label: TennisSwing score: tensor(0.6097) 71.710144 || 19.024471 || 147.45773 || 206.9207
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g11_c06
+label: TennisSwing || 138 || 45 || 201 || 164
+PREDICTIONS: 
+1 label: TennisSwing score: tensor(0.8283) 121.38637 || 53.55535 || 182.79448 || 201.70085
+2 label: TennisSwing score: tensor(0.6796) 85.28217 || 35.92826 || 150.20279 || 197.44778
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g11_c04
+label: TennisSwing || 205 || 43 || 304 || 156
+PREDICTIONS: 
+1 label: TennisSwing score: tensor(0.7169) 197.70769 || 46.35561 || 271.10828 || 196.49356
+2 label: TennisSwing score: tensor(0.6420) 170.81355 || 43.42424 || 244.67125 || 188.4661
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g24_c01
+label: TennisSwing || 192 || 50 || 264 || 160
+PREDICTIONS: 
+1 label: TennisSwing score: tensor(0.9423) 184.24593 || 79.584274 || 236.96425 || 172.38808
+2 label: TennisSwing score: tensor(0.8839) 177.18097 || 43.605602 || 247.68155 || 206.10078
+3 label: TennisSwing score: tensor(0.6475) 208.255 || 33.635418 || 269.5259 || 186.20361
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g08_c06
+label: TennisSwing || 88 || 100 || 169 || 227
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.7667) 12.079966 || 115.93265 || 63.08517 || 215.4905
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g12_c03
+label: TennisSwing || 144 || 49 || 226 || 200
+PREDICTIONS: 
+1 label: TennisSwing score: tensor(0.7593) 142.027 || 65.2961 || 208.80615 || 242.07613
+2 label: TennisSwing score: tensor(0.6753) 172.48901 || 54.902565 || 235.72289 || 227.23854
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g23_c02
+label: TennisSwing || 129 || 43 || 195 || 156
+PREDICTIONS: 
+1 label: TennisSwing score: tensor(0.7886) 111.97536 || 41.557743 || 175.1079 || 190.67227
+2 label: TennisSwing score: tensor(0.6674) 139.90622 || 29.325941 || 208.07571 || 187.75989
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g14_c03
+label: TennisSwing || 66 || 47 || 191 || 193
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g20_c06
+label: TennisSwing || 203 || 108 || 253 || 177
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.6105) 12.722984 || 113.4338 || 63.03944 || 210.52237
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g16_c02
+label: TennisSwing || 101 || 84 || 153 || 157
+PREDICTIONS: 
+1 label: TennisSwing score: tensor(0.9988) 89.96075 || 102.61445 || 145.32646 || 223.95981
+2 label: TennisSwing score: tensor(0.9972) 103.40489 || 120.18433 || 140.11285 || 193.24461
+3 label: TennisSwing score: tensor(0.9911) 73.51235 || 136.30952 || 132.4591 || 213.87971
+4 label: TennisSwing score: tensor(0.9903) 112.9346 || 51.54191 || 142.06381 || 224.4469
+5 label: TennisSwing score: tensor(0.8274) 116.53399 || 109.69766 || 158.05917 || 178.89575
+6 label: TennisSwing score: tensor(0.8173) 72.63829 || 84.21915 || 121.22772 || 198.64835
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g15_c02
+label: TennisSwing || 244 || 69 || 320 || 199
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g09_c04
+label: TennisSwing || 33 || 46 || 156 || 176
+PREDICTIONS: 
+1 label: TennisSwing score: tensor(0.7734) 40.823895 || 57.9623 || 115.773865 || 204.15106
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g12_c01
+label: TennisSwing || 81 || 72 || 158 || 201
+PREDICTIONS: 
+1 label: TennisSwing score: tensor(0.9459) 72.60573 || 92.35365 || 147.7941 || 260.30048
+2 label: TennisSwing score: tensor(0.8648) 102.50256 || 93.53828 || 173.57797 || 271.96954
+3 label: TennisSwing score: tensor(0.7040) 46.468315 || 87.55134 || 114.83916 || 247.57944
+4 label: TennisSwing score: tensor(0.6124) 133.57756 || 79.37488 || 210.83672 || 233.71674
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g16_c01
+label: TennisSwing || 81 || 81 || 131 || 160
+PREDICTIONS: 
+1 label: TennisSwing score: tensor(0.9970) 69.71475 || 120.20508 || 125.84643 || 196.29404
+2 label: TennisSwing score: tensor(0.9821) 83.96921 || 89.49188 || 140.45798 || 211.17104
+3 label: TennisSwing score: tensor(0.8170) 94.322975 || 109.69689 || 157.5822 || 188.35674
+4 label: TennisSwing score: tensor(0.7455) 52.375458 || 124.63846 || 98.968346 || 199.96115
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g21_c06
+label: TennisSwing || 72 || 50 || 149 || 190
+PREDICTIONS: 
+1 label: Basketball score: tensor(0.7172) 80.08543 || 118.24348 || 122.12412 || 220.7836
+2 label: Basketball score: tensor(0.6676) 89.53783 || 90.909 || 137.42838 || 204.8885
+3 label: PoleVault score: tensor(0.6615) 122.70128 || 108.47897 || 173.7005 || 194.10846
+4 label: PoleVault score: tensor(0.6125) 62.980392 || 171.40091 || 128.02704 || 254.00912
+5 label: TennisSwing score: tensor(0.6001) 62.352024 || 74.72894 || 152.1565 || 231.61354
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g13_c07
+label: TennisSwing || 56 || 82 || 121 || 178
+PREDICTIONS: 
+1 label: TennisSwing score: tensor(0.9668) 57.364388 || 117.97408 || 106.558495 || 208.6071
+2 label: TennisSwing score: tensor(0.6803) 81.32058 || 129.23088 || 130.62567 || 205.38983
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g25_c03
+label: TennisSwing || 64 || 78 || 120 || 174
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.6645) 237.93837 || 199.16696 || 282.19583 || 275.09625
+2 label: PoleVault score: tensor(0.6281) 1.015471 || 160.02979 || 46.53717 || 300.5009
+3 label: PoleVault score: tensor(0.6218) 250.9553 || 207.37889 || 295.9575 || 288.26694
+4 label: TennisSwing score: tensor(0.9889) 63.293713 || 105.39889 || 115.8631 || 209.75545
+5 label: TennisSwing score: tensor(0.8942) 44.993427 || 65.24869 || 122.06052 || 243.2846
+6 label: TennisSwing score: tensor(0.7248) 77.27149 || 88.89536 || 142.7499 || 220.50412
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g16_c03
+label: TennisSwing || 111 || 86 || 177 || 159
+PREDICTIONS: 
+1 label: TennisSwing score: tensor(0.9539) 103.2203 || 129.67627 || 149.41937 || 209.8121
+2 label: TennisSwing score: tensor(0.8902) 114.20376 || 83.453575 || 159.23921 || 195.14066
+3 label: TennisSwing score: tensor(0.6905) 100.91823 || 56.229614 || 183.40576 || 219.62904
+4 label: TennisSwing score: tensor(0.6786) 82.02268 || 98.41751 || 135.71288 || 206.1808
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g22_c03
+label: TennisSwing || 165 || 96 || 215 || 163
+PREDICTIONS: 
+1 label: TennisSwing score: tensor(0.6636) 155.62556 || 110.10208 || 200.72064 || 199.6268
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g10_c03
+label: TennisSwing || 165 || 69 || 244 || 186
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g21_c04
+label: TennisSwing || 140 || 25 || 256 || 168
+PREDICTIONS: 
+1 label: PoleVault score: tensor(0.6214) 123.58444 || 40.767292 || 207.7594 || 130.76016
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g22_c04
+label: TennisSwing || 170 || 99 || 211 || 165
+PREDICTIONS: 
+1 label: TennisSwing score: tensor(0.9048) 155.45497 || 134.55174 || 187.60088 || 199.84926
+2 label: TennisSwing score: tensor(0.9001) 168.84677 || 128.63171 || 201.29118 || 203.95653
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g15_c06
+label: TennisSwing || 66 || 70 || 160 || 193
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g19_c05
+label: TennisSwing || 47 || 31 || 172 || 227
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g13_c01
+label: TennisSwing || 127 || 85 || 191 || 168
+PREDICTIONS: 
+1 label: TennisSwing score: tensor(0.6196) 133.60284 || 83.19256 || 178.62805 || 223.92526
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g25_c05
+label: TennisSwing || 95 || 82 || 152 || 165
+PREDICTIONS: 
+1 label: TennisSwing score: tensor(0.8023) 85.233826 || 120.67897 || 137.7707 || 196.92064
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g24_c05
+label: TennisSwing || 101 || 54 || 187 || 198
+PREDICTIONS: 
+1 label: TennisSwing score: tensor(0.8212) 93.81173 || 91.89836 || 188.65874 || 183.42989
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g19_c03
+label: TennisSwing || 39 || 37 || 145 || 225
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g13_c06
+label: TennisSwing || 88 || 92 || 152 || 176
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g24_c03
+label: TennisSwing || 189 || 69 || 259 || 197
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g12_c07
+label: TennisSwing || 92 || 59 || 190 || 189
+PREDICTIONS: 
+1 label: TennisSwing score: tensor(0.7012) 77.8293 || 72.470894 || 153.62956 || 240.84352
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g14_c06
+label: TennisSwing || 140 || 55 || 216 || 204
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g11_c05
+label: TennisSwing || 66 || 43 || 184 || 166
+PREDICTIONS: 
+1 label: TennisSwing score: tensor(0.7372) 71.57669 || 71.91033 || 151.92381 || 202.78804
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g14_c05
+label: TennisSwing || 151 || 54 || 268 || 221
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g15_c04
+label: TennisSwing || 183 || 51 || 249 || 188
+PREDICTIONS: 
+1 label: TennisSwing score: tensor(0.8644) 171.18417 || 55.718708 || 244.27216 || 242.3739
+2 label: TennisSwing score: tensor(0.6414) 146.39427 || 49.198563 || 219.28554 || 208.21664
+3 label: TennisSwing score: tensor(0.6070) 198.17163 || 70.70254 || 270.1452 || 226.9748
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g14_c01
+label: TennisSwing || 83 || 76 || 181 || 224
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g17_c06
+label: TennisSwing || 141 || 77 || 195 || 163
+PREDICTIONS: 
+1 label: TennisSwing score: tensor(0.9691) 126.57108 || 86.79827 || 176.47173 || 225.57411
+2 label: TennisSwing score: tensor(0.6381) 143.98174 || 101.069855 || 190.85266 || 205.08832
+3 label: TennisSwing score: tensor(0.6065) 132.72142 || 63.652843 || 207.6106 || 217.6806
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g16_c06
+label: TennisSwing || 99 || 94 || 179 || 173
+PREDICTIONS: 
+1 label: TennisSwing score: tensor(0.9987) 75.70833 || 120.450096 || 159.90808 || 214.25139
+2 label: TennisSwing score: tensor(0.9304) 110.11543 || 119.21593 || 195.78323 || 208.40192
+3 label: TennisSwing score: tensor(0.6895) 48.7117 || 133.47336 || 125.42122 || 223.01971
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g12_c06
+label: TennisSwing || 76 || 62 || 149 || 189
+PREDICTIONS: 
+1 label: TennisSwing score: tensor(0.7502) 78.758385 || 68.7233 || 143.08151 || 215.63432
+2 label: TennisSwing score: tensor(0.7329) 48.616917 || 77.56831 || 117.560326 || 228.99545
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g20_c01
+label: TennisSwing || 138 || 38 || 251 || 196
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g13_c04
+label: TennisSwing || 135 || 91 || 194 || 172
+PREDICTIONS: 
+1 label: TennisSwing score: tensor(0.9904) 132.9297 || 102.2332 || 179.90402 || 210.35387
+2 label: TennisSwing score: tensor(0.9751) 132.64293 || 141.91624 || 172.57826 || 235.29486
+3 label: TennisSwing score: tensor(0.9306) 139.75095 || 86.59313 || 222.59052 || 230.88118
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g23_c03
+label: TennisSwing || 164 || 31 || 252 || 202
+PREDICTIONS: 
+1 label: TennisSwing score: tensor(0.7043) 165.70341 || 20.862991 || 243.8124 || 212.36758
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g09_c07
+label: TennisSwing || 93 || 25 || 188 || 187
+PREDICTIONS: 
+1 label: TennisSwing score: tensor(0.7259) 74.08884 || 63.99133 || 163.2284 || 257.41574
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g18_c03
+label: TennisSwing || 123 || 60 || 181 || 175
+PREDICTIONS: 
+1 label: TennisSwing score: tensor(0.7819) 112.650024 || 68.930504 || 177.85371 || 222.86707
+2 label: TennisSwing score: tensor(0.6478) 136.9084 || 55.02923 || 207.95775 || 220.861
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g10_c06
+label: TennisSwing || 114 || 58 || 201 || 193
+PREDICTIONS: 
+1 label: TennisSwing score: tensor(0.8019) 104.076324 || 55.20723 || 181.65994 || 239.48007
+2 label: TennisSwing score: tensor(0.6528) 134.47176 || 85.68299 || 202.26373 || 251.53445
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g11_c02
+label: TennisSwing || 219 || 48 || 290 || 164
+PREDICTIONS: 
+1 label: TennisSwing score: tensor(0.9076) 211.2744 || 94.61006 || 278.9371 || 179.78026
+2 label: TennisSwing score: tensor(0.6628) 176.4882 || 50.543804 || 240.87971 || 201.92213
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g24_c04
+label: TennisSwing || 165 || 78 || 226 || 198
+PREDICTIONS: 
+1 label: TennisSwing score: tensor(0.7092) 145.00323 || 88.45919 || 211.9837 || 239.19568
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g08_c03
+label: TennisSwing || 120 || 92 || 197 || 202
+PREDICTIONS: 
+1 label: TennisSwing score: tensor(0.8342) 103.29786 || 110.94117 || 183.78735 || 257.71265
+2 label: TennisSwing score: tensor(0.6493) 138.1812 || 120.11228 || 213.54561 || 265.0167
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g24_c06
+label: TennisSwing || 131 || 84 || 187 || 168
+PREDICTIONS: 
+1 label: TennisSwing score: tensor(0.9571) 129.62886 || 107.48892 || 169.55745 || 215.06384
+2 label: TennisSwing score: tensor(0.9515) 108.30895 || 90.21098 || 199.63718 || 233.1195
+3 label: TennisSwing score: tensor(0.6316) 110.20911 || 100.72847 || 153.12924 || 220.17961
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g10_c05
+label: TennisSwing || 8 || 75 || 75 || 172
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g22_c02
+label: TennisSwing || 178 || 81 || 239 || 167
+PREDICTIONS: 
+1 label: TennisSwing score: tensor(0.9923) 179.54991 || 87.90836 || 222.32594 || 191.89246
+2 label: TennisSwing score: tensor(0.9062) 196.48448 || 88.88943 || 232.21706 || 177.2309
+3 label: TennisSwing score: tensor(0.8182) 167.73886 || 98.31933 || 208.31088 || 177.86307
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g18_c02
+label: TennisSwing || 116 || 56 || 182 || 170
+PREDICTIONS: 
+1 label: TennisSwing score: tensor(0.7730) 110.386055 || 64.45524 || 174.31497 || 206.9953
+2 label: TennisSwing score: tensor(0.6174) 73.11805 || 45.73338 || 147.2242 || 193.17291
+
+GROUND TRUTH FOR: TennisSwing/v_TennisSwing_g19_c01
+label: TennisSwing || 88 || 26 || 188 || 186
+PREDICTIONS: 
+1 label: Basketball score: tensor(0.7204) 94.24399 || 103.0782 || 138.58481 || 240.85498
+2 label: TennisSwing score: tensor(0.8482) 87.87386 || 57.333504 || 179.74791 || 248.68434
+
+GROUND TRUTH FOR: Skiing/v_Skiing_g13_c04
+label: Skiing || 104 || 53 || 159 || 138
+PREDICTIONS: 
+1 label: Skiing score: tensor(0.7910) 98.79961 || 47.72169 || 146.7869 || 157.64276
+
+GROUND TRUTH FOR: Skiing/v_Skiing_g13_c06
+label: Skiing || 103 || 80 || 122 || 114
+PREDICTIONS: 
+1 label: Skiing score: tensor(0.7732) 96.77755 || 102.11965 || 115.280945 || 139.38387
+
+GROUND TRUTH FOR: Skiing/v_Skiing_g17_c03
+label: Skiing || 110 || 66 || 136 || 102
+
+GROUND TRUTH FOR: Skiing/v_Skiing_g24_c06
+label: Skiing || 113 || 105 || 160 || 178
+
+GROUND TRUTH FOR: Skiing/v_Skiing_g12_c04
+label: Skiing || 168 || 8 || 257 || 161
+
+GROUND TRUTH FOR: Skiing/v_Skiing_g10_c03
+label: Skiing || 165 || 73 || 221 || 149
+
+GROUND TRUTH FOR: Skiing/v_Skiing_g16_c02
+label: Skiing || 145 || 90 || 198 || 148
+PREDICTIONS: 
+1 label: Skiing score: tensor(0.9656) 110.8908 || 110.63243 || 159.92754 || 196.934
+2 label: Skiing score: tensor(0.8350) 128.50543 || 119.73765 || 178.52951 || 186.71559
+3 label: Skiing score: tensor(0.7469) 73.44751 || 101.169044 || 128.44705 || 195.07825
