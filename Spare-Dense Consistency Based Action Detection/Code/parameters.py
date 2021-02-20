@@ -1,0 +1,10 @@
+num_frames = 16
+num_frames_trimmed = 16
+skip_ratio = 4
+min_trimmed_skip = 1.7
+batch_size = 13
+val_bs = 16
+learning_rate = 1e-3
+num_epochs = 150
+validation_skip_rate = 2
+num_workers = 16
