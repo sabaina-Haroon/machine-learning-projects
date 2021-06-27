@@ -1,28 +1,5 @@
 The Project Analyzes Sucseptibility of a deep Neural Network Against Natural Perturbations <a name="TOP"></a>
 ===================
-
-Project Results <a name="TOP"></a>
-===================
-
-![1](https://user-images.githubusercontent.com/58717184/108569930-cb0d1000-72da-11eb-9647-5acb028a59e6.JPG)
-
-
-![1_a](https://user-images.githubusercontent.com/58717184/108569934-ccd6d380-72da-11eb-8bf2-d17aaa6d84ee.JPG)
-
-
-![2](https://user-images.githubusercontent.com/58717184/108569945-cfd1c400-72da-11eb-8f54-07b6458b6f46.JPG)
-
-
-![3](https://user-images.githubusercontent.com/58717184/108569950-d2341e00-72da-11eb-9ffd-022ab329d293.JPG)
-![4](https://user-images.githubusercontent.com/58717184/108569955-d4967800-72da-11eb-9472-fe242e08c49e.JPG)
-![4_a](https://user-images.githubusercontent.com/58717184/108569960-d5c7a500-72da-11eb-91ea-86ca5f2525f8.JPG)
-![4_b](https://user-images.githubusercontent.com/58717184/108569962-d7916880-72da-11eb-8adb-97f1d0da0b93.JPG)
-![5](https://user-images.githubusercontent.com/58717184/108569967-d95b2c00-72da-11eb-885b-5099b52bae3b.JPG)
-![5_a](https://user-images.githubusercontent.com/58717184/108569972-db24ef80-72da-11eb-8abd-2a802a353780.JPG)
-
-
-
-
 ---
 To run this project you need to have following required packages installed for running this code 
 
@@ -81,6 +58,31 @@ example
 python test_cityscapes_image --IMAGE_FILE berlin_000000_000019_leftImg8bit.png --perturn_image start_scale=6.png
 
 this can be done for all type of perturbation, make sure to generate the perturbed image before 
+  
+
+Project Results <a name="TOP"></a>
+===================
+
+![1](https://user-images.githubusercontent.com/58717184/108569930-cb0d1000-72da-11eb-9647-5acb028a59e6.JPG)
+
+
+![1_a](https://user-images.githubusercontent.com/58717184/108569934-ccd6d380-72da-11eb-8bf2-d17aaa6d84ee.JPG)
+
+
+![2](https://user-images.githubusercontent.com/58717184/108569945-cfd1c400-72da-11eb-8f54-07b6458b6f46.JPG)
+
+
+![3](https://user-images.githubusercontent.com/58717184/108569950-d2341e00-72da-11eb-9ffd-022ab329d293.JPG)
+![4](https://user-images.githubusercontent.com/58717184/108569955-d4967800-72da-11eb-9472-fe242e08c49e.JPG)
+![4_a](https://user-images.githubusercontent.com/58717184/108569960-d5c7a500-72da-11eb-91ea-86ca5f2525f8.JPG)
+![4_b](https://user-images.githubusercontent.com/58717184/108569962-d7916880-72da-11eb-8adb-97f1d0da0b93.JPG)
+![5](https://user-images.githubusercontent.com/58717184/108569967-d95b2c00-72da-11eb-885b-5099b52bae3b.JPG)
+![5_a](https://user-images.githubusercontent.com/58717184/108569972-db24ef80-72da-11eb-8abd-2a802a353780.JPG)
+
+
+
+
+
 
 Project Insights <a name="TOP"></a>
 ===================
